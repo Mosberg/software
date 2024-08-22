@@ -1,0 +1,155 @@
+{
+  "title": "Software List Homepage",
+  "S-Z": "S, T, U, V, W, X, Y, Z",
+  "description": "A collection of software and productivity tools for Windows 10 users.",
+  "categories": {
+    "Security": [
+      {
+        "description": "A malware removal tool to detect and remove malware.",
+        "download": "https://www.malwarebytes.com/download",
+        "name": "Malwarebytes",
+        "website": "https://www.malwarebytes.com/"
+      },
+      {
+        "description": "A popular antivirus software to protect against malware and viruses.",
+        "download": "https://www.avast.com/en-us/download",
+        "name": "Avast Antivirus",
+        "website": "https://www.avast.com/"
+      },
+      {
+        "description": "A comprehensive antivirus software to protect against malware and viruses.",
+        "download": "https://www.kaspersky.com/downloads",
+        "name": "Kaspersky Antivirus",
+        "website": "https://www.kaspersky.com/"
+      },
+      {
+        "description": "A well-known antivirus software to protect against malware and viruses.",
+        "download": "https://us.norton.com/downloads",
+        "name": "Norton Antivirus",
+        "website": "https://us.norton.com/"
+      },
+      {
+        "description": "Built-in antivirus and security suite for Windows 10.",
+        "download": "",
+        "name": "Windows Defender",
+        "website": "https://www.microsoft.com/en-us/windows/comprehensive-security"
+      }
+    ],
+    "Text Editors": [
+      {
+        "description": "A sophisticated text editor for code, markup, and prose.",
+        "download": "https://www.sublimetext.com/3/download/windows.html",
+        "name": "Sublime Text",
+        "website": "https://www.sublimetext.com/"
+      },
+      {
+        "description": "A hackable text editor for the 21st century.",
+        "download": "https://atom.io/download/windows",
+        "name": "Atom",
+        "website": "https://atom.io/"
+      },
+      {
+        "description": "A free source code editor and Notepad replacement.",
+        "download": "https://notepad-plus-plus.org/download/v7.9.5.html",
+        "name": "Notepad++",
+        "website": "https://notepad-plus-plus.org/"
+      },
+      {
+        "description": "A highly configurable text editor built to enable efficient text editing.",
+        "download": "https://www.vim.org/download.php#win32",
+        "name": "Vim",
+        "website": "https://www.vim.org/"
+      },
+      {
+        "description": "An extensible, customizable, free/libre text editor.",
+        "download": "https://www.gnu.org/software/emacs/windows/",
+        "name": "Emacs",
+        "website": "https://www.gnu.org/software/emacs/"
+      }
+    ],
+    "Utilities": [
+      {
+        "description": "A utility to clean and optimize your PC.",
+        "download": "https://www.ccleaner.com/ccleaner/download",
+        "name": "CCleaner",
+        "website": "https://www.ccleaner.com/"
+      },
+      {
+        "description": "A file archiver with a high compression ratio.",
+        "download": "https://www.7-zip.org/download.html",
+        "name": "7-Zip",
+        "website": "https://www.7-zip.org/"
+      },
+      {
+        "description": "Quickly preview files and folders by pressing the spacebar.",
+        "download": "https://github.com/QL-Win/QuickLook/releases",
+        "name": "QuickLook",
+        "website": "https://github.com/QL-Win/QuickLook"
+      },
+      {
+        "description": "A powerful screenshot and screen recording tool with extensive features.",
+        "download": "https://getsharex.com/downloads/",
+        "name": "ShareX",
+        "website": "https://getsharex.com/"
+      },
+      {
+        "description": "The fastest way to take a customizable screenshot",
+        "download": "https://app.prntscr.com/build/setup-lightshot.exe",
+        "name": "LightShot",
+        "website": "https://app.prntscr.com/en/index.html"
+      }
+    ],
+    "Version Control": [
+      {
+        "description": "A free and open-source distributed version control system.",
+        "download": "https://git-scm.com/download/win",
+        "name": "Git",
+        "website": "https://git-scm.com/"
+      },
+      {
+        "description": "A graphical Git client for Windows and macOS.",
+        "download": "https://desktop.github.com/download/win",
+        "name": "GitHub Desktop",
+        "website": "https://desktop.github.com/"
+      },
+      {
+        "description": "A Git client for Windows, macOS, and Linux with a graphical interface.",
+        "download": "https://www.gitkraken.com/download",
+        "name": "Git Kraken",
+        "website": "https://www.gitkraken.com/"
+      },
+      {
+        "description": "A Windows Shell Interface to Git.",
+        "download": "https://tortoisegit.org/download/",
+        "name": "TortoiseGit",
+        "website": "https://tortoisegit.org/"
+      }
+    ],
+    "Web Browsers": [
+      {
+        "description": "A fast, secure, and versatile web browser.",
+        "download": "https://www.google.com/chrome/downloads/",
+        "name": "Google Chrome",
+        "website": "https://www.google.com/chrome/"
+      },
+      {
+        "description": "A privacy-focused web browser with a rich set of features.",
+        "download": "https://www.mozilla.org/firefox/download/thanks/",
+        "name": "Mozilla Firefox",
+        "website": "https://www.mozilla.org/firefox/"
+      },
+      {
+        "description": "A browser that combines a minimal design with sophisticated technology.",
+        "download": "https://www.microsoft.com/edge/download",
+        "name": "Microsoft Edge",
+        "website": "https://www.microsoft.com/edge"
+      },
+      {
+        "description": "A fast, secure, and versatile web browser.",
+        "download": "https://www.opera.com/download",
+        "name": "Opera GX",
+        "website": "https://www.opera.com/"
+      }
+    ]
+  }
+}
