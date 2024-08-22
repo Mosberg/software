@@ -1,4 +1,6 @@
-fetch("/src/json/software-list-88.json")
+fetch(
+  "https://raw.githubusercontent.com/Mosberg/software/main/src/json/software-list-88.json"
+)
   .then((response) => response.json())
   .then((data) => {
     const softwareList = document.querySelector(".loadContent");
