@@ -1,4 +1,4 @@
-fetch("/Mosberg.GitHub.io/src/json/list.json")
+fetch("/software/src/json/list.json")
   .then((response) => response.json())
   .then((data) => {
     const softwareList = document.querySelector(".loadContent");
