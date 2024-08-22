@@ -1,4 +1,6 @@
-fetch("https://raw.githubusercontent.com/Mosberg/software/main/src/json/list.json")
+fetch(
+  "https://raw.githubusercontent.com/Mosberg/software/main/src/json/list.json"
+)
   .then((response) => response.json())
   .then((data) => {
     const softwareList = document.querySelector(".loadContent");
@@ -7,16 +9,18 @@ fetch("https://raw.githubusercontent.com/Mosberg/software/main/src/json/list.jso
     Object.keys(categories).forEach((category) => {
       const categoryDiv = document.createElement("div");
       categoryDiv.className = "category";
-      categoryDiv.innerHTML = `<h2>${category}</h2>`;
+      categoryDiv.innerHTML = `<h2 class="font-effect-emboss">${category}</h2>`;
 
       categories[category].forEach((software) => {
         const softwareCard = document.createElement("div");
         softwareCard.className = "software-card";
         softwareCard.innerHTML = `
-          <h3>${software.name}</h3>
-          <p>${software.description}</p>
-          <a href="${software.website}" target="_blank">Visit Website</a>
-          <a href="${software.download}" target="_blank">Download</a>
+          <h3 class="font-effect-emboss">${software.name}</h3>
+          <p  class="font-effect-emboss">${software.description}</p>
+          <div class="links">
+          <a class="font-effect-emboss" href="${software.website}" target="_blank">Visit Website</a>
+          <a class="font-effect-emboss" href="${software.download}" target="_blank">Download</a>
+          </div>
         `;
 
         categoryDiv.appendChild(softwareCard);

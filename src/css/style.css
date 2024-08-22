@@ -1,70 +1,108 @@
+/* Global Variables */
 :root {
   --font-family: "Fira Code";
+  --primary-color: #3498db;
+  --secondary-color: #f1c40f;
+  --accent-color: #e74c3c;
+  --background-color: #f7f7f7;
+  --border-color: #ddd;
+  --content-background-color: #ecf0f1;
+  --category-background-color: #87ceeb;
+}
+
+/* Reset and Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  box-sizing: border-box;
-  margin: 0%;
-  padding: 0%;
   font-family: var(--font-family);
-  background-color: cadetblue;
+  background-color: var(--primary-color);
 }
 
+/* Header Styles */
 header {
   position: fixed;
-  inset-block-start: 0px;
+  inset-block-start: 0;
+  inset-inline-start: 0;
   inline-size: 100%;
   block-size: 65px;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: center;
 }
 
+/* Navigation Styles */
 nav {
   position: fixed;
   inset-block-start: 65px;
+  inset-inline-start: 0;
   inline-size: 100%;
   block-size: 35px;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: center;
+  color: #fff;
 }
 
+nav a {
+  text-decoration: none;
+  color: #fff;
+  background-color: var(--accent-color);
+  margin: 0 20px;
+  block-size: 22px;
+  inline-size: 120px;
+  border: none;
+  text-align: center;
+  border-radius: 6px;
+  transition: all 0.5s ease;
+}
+
+nav a:hover {
+  background-color: var(--secondary-color);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  transition: all 0.5s ease;
+}
+
+/* Main Content Styles */
 main {
   position: fixed;
   inset-block-start: 100px;
-  inline-size: 100%;
+  inset-inline-start: 1%;
+  inline-size: 96%;
   inset-block-end: 40px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   flex-wrap: wrap;
   text-align: center;
   overflow: auto;
-  border: black solid 1px;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.9);
+  background-color: var(--background-color);
+  border-radius: 10px;
+  scrollbar-width: none;
+  padding: 1%;
 }
 
-.loadContent {
-  background-color: #606060;
-}
-
-ul {
-  list-style-type: none;
-}
-
+/* Footer Styles */
 footer {
   position: fixed;
-  inset-block-end: 0px;
+  inset-block-end: 0;
+  inset-inline-start: 0;
   inline-size: 100%;
   block-size: 40px;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: center;
+  background-color: var(--primary-color);
+  color: var(--accent-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
+/* Software List Styles */
 .software-list {
   display: flex;
   flex-direction: column;
@@ -72,23 +110,26 @@ footer {
   justify-content: space-evenly;
 }
 
+/* Category Styles */
 .category {
-  margin: 0;
-  border: #058874 1px solid;
+  background-color: var(--category-background-color);
   border-radius: 10px;
-  padding: 0px;
-  background-color: #f7f7f7;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  inline-size: 30%;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.9);
+  inline-size: 24%;
+  margin: 5px;
 }
 
+.category h2 {
+  color: var(--accent-color);
+}
+
+/* Software Card Styles */
 .software-card {
-  background-color: #f7f7f7;
+  background-color: #fff;
   padding: 10px;
   margin: 10px;
-  border: 1px solid #ddd;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.9);
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -97,21 +138,47 @@ footer {
 
 .software-card h3 {
   margin-block-start: 0;
+  color: var(--accent-color);
+}
+
+.software-card p {
+  margin-block-start: 0;
+  color: var(--accent-color);
+}
+
+/* Link Styles */
+.links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 5px 0;
+  inline-size: 100%;
 }
 
 .software-card a {
   text-decoration: none;
-  background-color: #058874;
-  color: #c8f500;
-  border: 1px solid #997ab7;
-  border-radius: 5px;
-  padding: 5px 10px;
-  transition: all 0.3s ease;
+  color: #fff;
+  background-color: var(--accent-color);
+  margin: 0 20px;
+  block-size: 22px;
+  inline-size: 45%;
+  border: none;
+  text-align: center;
+  border-radius: 6px;
+  transition: all 0.5s ease;
 }
 
 .software-card a:hover {
-  transition: all 0.3s ease;
-  background-color: #fa707b;
-  color: #370058;
-  border: 1px solid #668839;
+  background-color: var(--secondary-color);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  transition: all 0.5s ease;
+}
+
+/* Utility Styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
