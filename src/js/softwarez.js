@@ -1,4 +1,4 @@
-fetch("/src/json/listPerchanceProfessional-ize.json")
+fetch("/src/json/software-list-88.json")
   .then((response) => response.json())
   .then((data) => {
     const softwareList = document.querySelector(".loadContent");

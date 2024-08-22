@@ -3,7 +3,7 @@ import json
 import requests
 
 # Fetch README.md content
-readme_url = "https://raw.githubusercontent.com/LisaDziuba/Awesome-Design-Tools/master/README.md"
+readme_url = "https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md"
 response = requests.get(readme_url)
 readme_content = response.text
 
