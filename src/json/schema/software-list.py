@@ -20,43 +20,49 @@ software_list = {
     "categories": {}
 }
 
+# Initialize current category
+current_category = ""
+
 # Extract software information
 for line in readme_content.splitlines():
-    # Extract software name and link
-    match = re.search(pattern_name, line)
-    if match:
-        name = match.group(1)
-        link = match.group(2)
-        
-        # Extract software description
-        description = ""
-        for next_line in readme_content.splitlines()[readme_content.splitlines().index(line)+1:]:
-            if next_line.startswith("- "):
-                break
-            description += next_line.strip() + " "
-        
-        # Extract software download link
-        download = ""
-        match = re.search(pattern_download, line)
-        if match:
-            download = match.group(2)
-        
-        # Extract software website
-        website = ""
-        match = re.search(pattern_website, line)
-        if match:
-            website = match.group(2)
-        
-        # Add software to list
-        category = line.split("### ")[1].strip()
-        if category not in software_list["categories"]:
-            software_list["categories"][category] = []
-        software_list["categories"][category].append({
-            "name": name,
-            "description": description.strip(),
-            "download": download,
-            "website": website
-        })
+    # Check if line is a category header
+    if line.startswith("### "):
+        current_category = line.split("### ")[1].strip()
+        if current_category not in software_list["categories"]:
+            software_list["categories"][current_category] = []
+    else:
+        # Extract software name and link
+        match = re.search(pattern_name, line)
+        if match and current_category:
+            name = match.group(1)
+            link = match.group(2)
+            
+            # Extract software description
+            description = ""
+            for next_line in readme_content.splitlines()[readme_content.splitlines().index(line)+1:]:
+                if next_line.startswith("- "):
+                    break
+                description += next_line.strip() + " "
+            
+            # Extract software download link
+            download = ""
+            match = re.search(pattern_download, line)
+            if match:
+                download = match.group(2)
+            
+            # Extract software website
+            website = ""
+            match = re.search(pattern_website, line)
+            if match:
+                website = match.group(2)
+            
+            # Add software to list
+            software_list["categories"][current_category].append({
+                "name": name,
+                "description": description.strip(),
+                "download": download,
+                "website": website
+            })
 
 # Write software list to JSON file
 with open("software-list.json", "w") as f:

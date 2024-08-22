@@ -1,0 +1,3752 @@
+{
+  "title": "Comprehensive Software Catalog for Windows 10",
+  "description": "An organized selection of essential software and productivity tools tailored for Windows 10 users.",
+  "categories": {
+    "Accessibility Tools": [
+      {
+        "name": "A11ygator",
+        "description": "",
+        "download": "https://a11ygator.chialab.io",
+        "website": "https://a11ygator.chialab.io"
+      },
+      {
+        "name": "Accessibility Insights",
+        "description": "",
+        "download": "https://accessibilityinsights.io/",
+        "website": "https://accessibilityinsights.io/"
+      },
+      {
+        "name": "Accessible Palette Builder",
+        "description": "",
+        "download": "https://toolness.github.io/accessible-color-matrix/",
+        "website": "https://toolness.github.io/accessible-color-matrix/"
+      },
+      {
+        "name": "AChecker",
+        "description": "",
+        "download": "https://achecker.ca",
+        "website": "https://achecker.ca"
+      },
+      {
+        "name": "ANDI",
+        "description": "",
+        "download": "https://www.ssa.gov/accessibility/andi/help/install.html",
+        "website": "https://www.ssa.gov/accessibility/andi/help/install.html"
+      },
+      {
+        "name": "Axe",
+        "description": "",
+        "download": "https://www.deque.com/axe/",
+        "website": "https://www.deque.com/axe/"
+      },
+      {
+        "name": "ColorBox",
+        "description": "",
+        "download": "http://www.colorbox.io/",
+        "website": "http://www.colorbox.io/"
+      },
+      {
+        "name": "Colorable",
+        "description": "",
+        "download": "https://colorable.jxnblk.com/",
+        "website": "https://colorable.jxnblk.com/"
+      },
+      {
+        "name": "Color Oracle",
+        "description": "",
+        "download": "https://colororacle.org/",
+        "website": "https://colororacle.org/"
+      },
+      {
+        "name": "Contrast",
+        "description": "",
+        "download": "https://usecontrast.com/",
+        "website": "https://usecontrast.com/"
+      },
+      {
+        "name": "Contrast Checker",
+        "description": "",
+        "download": "https://contrast-checker.glitch.me/",
+        "website": "https://contrast-checker.glitch.me/"
+      },
+      {
+        "name": "Contraste",
+        "description": "",
+        "download": "https://contrasteapp.com/",
+        "website": "https://contrasteapp.com/"
+      },
+      {
+        "name": "Inclusive Design",
+        "description": "",
+        "download": "https://www.microsoft.com/design/inclusive/",
+        "website": "https://www.microsoft.com/design/inclusive/"
+      },
+      {
+        "name": "Hex Naw",
+        "description": "",
+        "download": "https://hexnaw.com/",
+        "website": "https://hexnaw.com/"
+      },
+      {
+        "name": "Leonardo",
+        "description": "",
+        "download": "https://leonardocolor.io",
+        "website": "https://leonardocolor.io"
+      },
+      {
+        "name": "PA11Y",
+        "description": "",
+        "download": "http://pa11y.org/",
+        "website": "http://pa11y.org/"
+      },
+      {
+        "name": "Sim Daltonism",
+        "description": "",
+        "download": "https://michelf.ca/projects/sim-daltonism/",
+        "website": "https://michelf.ca/projects/sim-daltonism/"
+      },
+      {
+        "name": "Stark",
+        "description": "",
+        "download": "https://getstark.co/",
+        "website": "https://getstark.co/"
+      },
+      {
+        "name": "Toptal\u2019s Color Filter",
+        "description": "",
+        "download": "https://www.toptal.com/designers/colorfilter",
+        "website": "https://www.toptal.com/designers/colorfilter"
+      },
+      {
+        "name": "tota11y",
+        "description": "",
+        "download": "http://khan.github.io/tota11y/",
+        "website": "http://khan.github.io/tota11y/"
+      },
+      {
+        "name": "WAVE",
+        "description": "",
+        "download": "https://wave.webaim.org/",
+        "website": "https://wave.webaim.org/"
+      },
+      {
+        "name": "90 Examples",
+        "description": "<div class=\"banner banner--yellow\">  Accessibility checking features are also available in VisBug from the [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) category.  </div>  </article>  <article id=\"animation-tools\">  ### Animation Tools  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:",
+        "download": "http://clrs.cc/a11y/",
+        "website": "http://clrs.cc/a11y/"
+      },
+      {
+        "name": "Visual Debugging Tools",
+        "description": "</div>  </article>  <article id=\"animation-tools\">  ### Animation Tools  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools"
+      }
+    ],
+    "Animation Tools": [
+      {
+        "name": "After Effects",
+        "description": "",
+        "download": "https://www.adobe.com/products/aftereffects.html",
+        "website": "https://www.adobe.com/products/aftereffects.html"
+      },
+      {
+        "name": "BeatFlyer",
+        "description": "",
+        "download": "https://beatflyer.com/",
+        "website": "https://beatflyer.com/"
+      },
+      {
+        "name": "Dokyu Motion",
+        "description": "",
+        "download": "https://3dmybusiness.com",
+        "website": "https://3dmybusiness.com"
+      },
+      {
+        "name": "Flare",
+        "description": "",
+        "download": "https://www.2dimensions.com/about-flare",
+        "website": "https://www.2dimensions.com/about-flare"
+      },
+      {
+        "name": "Flow",
+        "description": "",
+        "download": "https://createwithflow.com/",
+        "website": "https://createwithflow.com/"
+      },
+      {
+        "name": "GSAP",
+        "description": "",
+        "download": "https://greensock.com/",
+        "website": "https://greensock.com/"
+      },
+      {
+        "name": "Haiku Animator",
+        "description": "",
+        "download": "https://www.haikuforteams.com/",
+        "website": "https://www.haikuforteams.com/"
+      },
+      {
+        "name": "Keyshape",
+        "description": "![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)",
+        "download": "https://www.keyshapeapp.com/",
+        "website": "https://www.keyshapeapp.com/"
+      },
+      {
+        "name": "mac.svg",
+        "description": "",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg"
+      },
+      {
+        "name": "Kite Compositor",
+        "description": "",
+        "download": "https://kiteapp.co/",
+        "website": "https://kiteapp.co/"
+      },
+      {
+        "name": "LightBox",
+        "description": "",
+        "download": "https://uselightbox.com/",
+        "website": "https://uselightbox.com/"
+      },
+      {
+        "name": "Lottie",
+        "description": "",
+        "download": "https://airbnb.io/lottie/",
+        "website": "https://airbnb.io/lottie/"
+      },
+      {
+        "name": "Mantra",
+        "description": "",
+        "download": "https://jeremyckahn.github.io/mantra/",
+        "website": "https://jeremyckahn.github.io/mantra/"
+      },
+      {
+        "name": "Meteoritic",
+        "description": "",
+        "download": "https://meteoritic.io/",
+        "website": "https://meteoritic.io/"
+      },
+      {
+        "name": "Naker.Back",
+        "description": "",
+        "download": "https://app.naker.io/back",
+        "website": "https://app.naker.io/back"
+      },
+      {
+        "name": "Naker.Story",
+        "description": "",
+        "download": "https://naker.io/naker-story.html",
+        "website": "https://naker.io/naker-story.html"
+      },
+      {
+        "name": "OFFEO",
+        "description": "",
+        "download": "https://offeo.com/",
+        "website": "https://offeo.com/"
+      },
+      {
+        "name": "StorySwag",
+        "description": "",
+        "download": "https://storyswag.co",
+        "website": "https://storyswag.co"
+      },
+      {
+        "name": "Spirit",
+        "description": "",
+        "download": "https://spiritapp.io/",
+        "website": "https://spiritapp.io/"
+      },
+      {
+        "name": "Stylie",
+        "description": "",
+        "download": "https://jeremyckahn.github.io/stylie/",
+        "website": "https://jeremyckahn.github.io/stylie/"
+      },
+      {
+        "name": "Tumult Hype",
+        "description": "<div class=\"banner banner--yellow\">  Drama, Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.  </div>  </article>  <article id=\"augmented-reality\">  ### Augmented Reality  Augmented Reality is a technology that upgrades our real world, by adding a layer of digital information to it. The use of AR increases day by day with dozens of new AR apps, development kits, and AR frameworks. So in this section is collected different augmented reality tools for creating, projecting and prototyping apps focused on AR:",
+        "download": "https://tumult.com/hype/",
+        "website": "https://tumult.com/hype/"
+      }
+    ],
+    "Augmented Reality": [
+      {
+        "name": "Daqri",
+        "description": "",
+        "download": "https://daqri.com/",
+        "website": "https://daqri.com/"
+      },
+      {
+        "name": "EasyAR",
+        "description": "",
+        "download": "https://www.easyar.com/",
+        "website": "https://www.easyar.com/"
+      },
+      {
+        "name": "HP Reveal",
+        "description": "",
+        "download": "https://www.hpreveal.com/",
+        "website": "https://www.hpreveal.com/"
+      },
+      {
+        "name": "Layar",
+        "description": "",
+        "download": "https://www.layar.com/",
+        "website": "https://www.layar.com/"
+      },
+      {
+        "name": "Lens Studio",
+        "description": "",
+        "download": "https://lensstudio.snapchat.com/",
+        "website": "https://lensstudio.snapchat.com/"
+      },
+      {
+        "name": "Lightform",
+        "description": "",
+        "download": "https://lightform.com/",
+        "website": "https://lightform.com/"
+      },
+      {
+        "name": "Spark AR Studio",
+        "description": "",
+        "download": "https://www.sparkar.com",
+        "website": "https://www.sparkar.com"
+      },
+      {
+        "name": "Torch",
+        "description": "",
+        "download": "https://www.torch.app/",
+        "website": "https://www.torch.app/"
+      },
+      {
+        "name": "Unity",
+        "description": "",
+        "download": "https://unity.com/",
+        "website": "https://unity.com/"
+      },
+      {
+        "name": "Vectary",
+        "description": "",
+        "download": "https://www.vectary.com/",
+        "website": "https://www.vectary.com/"
+      },
+      {
+        "name": "Vuforia",
+        "description": "",
+        "download": "https://www.vuforia.com/",
+        "website": "https://www.vuforia.com/"
+      },
+      {
+        "name": "Wikitude",
+        "description": "</article>  <article id=\"collaboration-tools\">  ### Collaboration Tools  <!--- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2ZwUoEq\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png\" alt=\"Supernova\"/> </a> </p> </div> --->  Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:",
+        "download": "https://www.wikitude.com/",
+        "website": "https://www.wikitude.com/"
+      }
+    ],
+    "Collaboration Tools": [
+      {
+        "name": "Airtable",
+        "description": "",
+        "download": "https://airtable.com/",
+        "website": "https://airtable.com/"
+      },
+      {
+        "name": "Asana",
+        "description": "",
+        "download": "https://asana.com/",
+        "website": "https://asana.com/"
+      },
+      {
+        "name": "Basecamp",
+        "description": "",
+        "download": "https://basecamp.com/",
+        "website": "https://basecamp.com/"
+      },
+      {
+        "name": "Freedcamp",
+        "description": "",
+        "download": "https://freedcamp.com/",
+        "website": "https://freedcamp.com/"
+      },
+      {
+        "name": "Droplr",
+        "description": "",
+        "download": "https://droplr.com/",
+        "website": "https://droplr.com/"
+      },
+      {
+        "name": "Excalidraw",
+        "description": "",
+        "download": "https://excalidraw.com/",
+        "website": "https://excalidraw.com/"
+      },
+      {
+        "name": "Filestage",
+        "description": "",
+        "download": "https://filestage.io/",
+        "website": "https://filestage.io/"
+      },
+      {
+        "name": "Float",
+        "description": "",
+        "download": "https://www.float.com/",
+        "website": "https://www.float.com/"
+      },
+      {
+        "name": "Gallery",
+        "description": "",
+        "download": "https://material.io/tools/gallery/",
+        "website": "https://material.io/tools/gallery/"
+      },
+      {
+        "name": "HiveDesk",
+        "description": "",
+        "download": "https://www.hivedesk.com/",
+        "website": "https://www.hivedesk.com/"
+      },
+      {
+        "name": "Jira",
+        "description": "",
+        "download": "https://www.atlassian.com/software/jira",
+        "website": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "name": "Jitsi",
+        "description": "",
+        "download": "https://jitsi.org/",
+        "website": "https://jitsi.org/"
+      },
+      {
+        "name": "Keybase",
+        "description": "",
+        "download": "https://keybase.io",
+        "website": "https://keybase.io"
+      },
+      {
+        "name": "Lumeer",
+        "description": "",
+        "download": "https://www.lumeer.io/",
+        "website": "https://www.lumeer.io/"
+      },
+      {
+        "name": "Mattermost",
+        "description": "",
+        "download": "https://mattermost.com/",
+        "website": "https://mattermost.com/"
+      },
+      {
+        "name": "Milanote",
+        "description": "",
+        "download": "https://milanote.com/",
+        "website": "https://milanote.com/"
+      },
+      {
+        "name": "Mixed",
+        "description": "",
+        "download": "https://mixed.io",
+        "website": "https://mixed.io"
+      },
+      {
+        "name": "Moqhub",
+        "description": "",
+        "download": "https://moqhub.com",
+        "website": "https://moqhub.com"
+      },
+      {
+        "name": "MURAL",
+        "description": "",
+        "download": "https://mural.co/",
+        "website": "https://mural.co/"
+      },
+      {
+        "name": "Nextcloud",
+        "description": "",
+        "download": "https://nextcloud.com",
+        "website": "https://nextcloud.com"
+      },
+      {
+        "name": "Notion",
+        "description": "",
+        "download": "https://www.notion.so",
+        "website": "https://www.notion.so"
+      },
+      {
+        "name": "ProofHub",
+        "description": "",
+        "download": "https://www.proofhub.com/",
+        "website": "https://www.proofhub.com/"
+      },
+      {
+        "name": "RealtimeBoard (Miro)",
+        "description": "",
+        "download": "https://www.realtimeboard.com/",
+        "website": "https://www.realtimeboard.com/"
+      },
+      {
+        "name": "Slack",
+        "description": "",
+        "download": "https://slack.com/",
+        "website": "https://slack.com/"
+      },
+      {
+        "name": "Sunsama",
+        "description": "",
+        "download": "https://sunsama.com/",
+        "website": "https://sunsama.com/"
+      },
+      {
+        "name": "Taskade",
+        "description": "",
+        "download": "https://taskade.com/",
+        "website": "https://taskade.com/"
+      },
+      {
+        "name": "Trello",
+        "description": "",
+        "download": "https://trello.com/",
+        "website": "https://trello.com/"
+      },
+      {
+        "name": "Witeboard",
+        "description": "",
+        "download": "https://www.witeboard.com/",
+        "website": "https://www.witeboard.com/"
+      },
+      {
+        "name": "Workzone",
+        "description": "",
+        "download": "https://www.workzone.com/",
+        "website": "https://www.workzone.com/"
+      },
+      {
+        "name": "Wrike",
+        "description": "",
+        "download": "https://www.wrike.com/",
+        "website": "https://www.wrike.com/"
+      },
+      {
+        "name": "Zenkit",
+        "description": "",
+        "download": "https://zenkit.com/",
+        "website": "https://zenkit.com/"
+      },
+      {
+        "name": "zipBoard",
+        "description": "",
+        "download": "https://zipboard.co",
+        "website": "https://zipboard.co"
+      },
+      {
+        "name": "Zulip",
+        "description": "<div class=\"banner banner--yellow\">  You can also have design collaboration into [InVision Freehand](https://www.invisionapp.com/feature/freehand) tool.  </div>  </article>  <article id=\"color-picker-tools\">  ### Color Picker Tools  If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:",
+        "download": "https://zulipchat.com/",
+        "website": "https://zulipchat.com/"
+      },
+      {
+        "name": "InVision Freehand",
+        "description": "</div>  </article>  <article id=\"color-picker-tools\">  ### Color Picker Tools  If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:",
+        "download": "https://www.invisionapp.com/feature/freehand",
+        "website": "https://www.invisionapp.com/feature/freehand"
+      }
+    ],
+    "Color Picker Tools": [
+      {
+        "name": "BrandColors",
+        "description": "",
+        "download": "https://brandcolors.net/",
+        "website": "https://brandcolors.net/"
+      },
+      {
+        "name": "Calcolor",
+        "description": "",
+        "download": "https://calcolor.co",
+        "website": "https://calcolor.co"
+      },
+      {
+        "name": "Chroma",
+        "description": "",
+        "download": "https://chroma.spencerhamm.com/",
+        "website": "https://chroma.spencerhamm.com/"
+      },
+      {
+        "name": "Color",
+        "description": "",
+        "download": "https://color.adobe.com/explore/?filter=most-popular&time=month",
+        "website": "https://color.adobe.com/explore/?filter=most-popular&time=month"
+      },
+      {
+        "name": "Color by Cloudflare",
+        "description": "",
+        "download": "https://cloudflare.design/color/",
+        "website": "https://cloudflare.design/color/"
+      },
+      {
+        "name": "Color Deck",
+        "description": "",
+        "download": "https://color.obscuredetour.com/",
+        "website": "https://color.obscuredetour.com/"
+      },
+      {
+        "name": "Color Hexa",
+        "description": "",
+        "download": "https://www.colorhexa.com/",
+        "website": "https://www.colorhexa.com/"
+      },
+      {
+        "name": "Color Hex Picker",
+        "description": "",
+        "download": "http://colorhexpicker.com/",
+        "website": "http://colorhexpicker.com/"
+      },
+      {
+        "name": "Color Hunt",
+        "description": "",
+        "download": "https://colorhunt.co/",
+        "website": "https://colorhunt.co/"
+      },
+      {
+        "name": "ColorKit",
+        "description": "",
+        "download": "https://colorkit.io",
+        "website": "https://colorkit.io"
+      },
+      {
+        "name": "Color Leap",
+        "description": "",
+        "download": "https://colorleap.app",
+        "website": "https://colorleap.app"
+      },
+      {
+        "name": "Colorpicker",
+        "description": "",
+        "download": "https://colorpicker.crea-th.at/",
+        "website": "https://colorpicker.crea-th.at/"
+      },
+      {
+        "name": "ColorSlurp",
+        "description": "",
+        "download": "http://colorslurp.com/",
+        "website": "http://colorslurp.com/"
+      },
+      {
+        "name": "ColorsWall/",
+        "description": "",
+        "download": "https://colorswall.com/",
+        "website": "https://colorswall.com/"
+      },
+      {
+        "name": "Colorwise",
+        "description": "",
+        "download": "https://www.colorwise.io/",
+        "website": "https://www.colorwise.io/"
+      },
+      {
+        "name": "Colour Cafe",
+        "description": "",
+        "download": "https://www.instagram.com/colours.cafe/",
+        "website": "https://www.instagram.com/colours.cafe/"
+      },
+      {
+        "name": "Colourcode",
+        "description": "",
+        "download": "https://colourco.de/",
+        "website": "https://colourco.de/"
+      },
+      {
+        "name": "Coolors",
+        "description": "",
+        "download": "https://coolors.co/",
+        "website": "https://coolors.co/"
+      },
+      {
+        "name": "Culrs",
+        "description": "",
+        "download": "https://culrs.com/#/",
+        "website": "https://culrs.com/#/"
+      },
+      {
+        "name": "Geenes",
+        "description": "",
+        "download": "https://geenes.app",
+        "website": "https://geenes.app"
+      },
+      {
+        "name": "Image Color Picker",
+        "description": "",
+        "download": "https://image-color.com",
+        "website": "https://image-color.com"
+      },
+      {
+        "name": "Instant Eyedropper",
+        "description": "",
+        "download": "http://instant-eyedropper.com/",
+        "website": "http://instant-eyedropper.com/"
+      },
+      {
+        "name": "Just Color Picker",
+        "description": "",
+        "download": "http://annystudio.com/software/colorpicker/",
+        "website": "http://annystudio.com/software/colorpicker/"
+      },
+      {
+        "name": "Khroma",
+        "description": "",
+        "download": "http://khroma.co/",
+        "website": "http://khroma.co/"
+      },
+      {
+        "name": "Material Colors Native",
+        "description": "",
+        "download": "https://github.com/BafS/Material-Colors-native",
+        "website": "https://github.com/BafS/Material-Colors-native"
+      },
+      {
+        "name": "Material Design Palette Generator",
+        "description": "",
+        "download": "https://materialpalettes.com/",
+        "website": "https://materialpalettes.com/"
+      },
+      {
+        "name": "Paletton",
+        "description": "",
+        "download": "https://paletton.com",
+        "website": "https://paletton.com"
+      },
+      {
+        "name": "Picular",
+        "description": "",
+        "download": "https://picular.co/",
+        "website": "https://picular.co/"
+      },
+      {
+        "name": "Pigment",
+        "description": "",
+        "download": "https://pigment.shapefactory.co/",
+        "website": "https://pigment.shapefactory.co/"
+      },
+      {
+        "name": "Pikka",
+        "description": "",
+        "download": "https://itunes.apple.com/us/app/pikka-color-picker/id1195076754",
+        "website": "https://itunes.apple.com/us/app/pikka-color-picker/id1195076754"
+      },
+      {
+        "name": "React Color",
+        "description": "",
+        "download": "http://casesandberg.github.io/react-color/",
+        "website": "http://casesandberg.github.io/react-color/"
+      },
+      {
+        "name": "Sip",
+        "description": "",
+        "download": "https://sipapp.io/",
+        "website": "https://sipapp.io/"
+      },
+      {
+        "name": "Skala Color",
+        "description": "",
+        "download": "https://bjango.com/mac/skalacolor/",
+        "website": "https://bjango.com/mac/skalacolor/"
+      },
+      {
+        "name": "Swatches",
+        "description": "",
+        "download": "https://swatchesapp.io/",
+        "website": "https://swatchesapp.io/"
+      },
+      {
+        "name": "Tint & Shade Generator",
+        "description": "",
+        "download": "https://maketintsandshades.com/",
+        "website": "https://maketintsandshades.com/"
+      },
+      {
+        "name": "Viz Palette",
+        "description": "<div class=\"banner banner--yellow\">  You can also create color palettes with Leonardo, which is mentioned in the [Accessibility Tools section](#accessibility-tools).  </div>  </article>  <article id=\"design-feedback-tools\">  ### Design Feedback Tools  How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs \u2014 take a look at this tool:",
+        "download": "https://projects.susielu.com/viz-palette",
+        "website": "https://projects.susielu.com/viz-palette"
+      },
+      {
+        "name": "Accessibility Tools section",
+        "description": "</div>  </article>  <article id=\"design-feedback-tools\">  ### Design Feedback Tools  How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs \u2014 take a look at this tool:",
+        "download": "#accessibility-tools",
+        "website": "#accessibility-tools"
+      }
+    ],
+    "Design Feedback Tools": [
+      {
+        "name": "Flawless Feedback",
+        "description": "",
+        "download": "https://flawlessapp.io/feedback",
+        "website": "https://flawlessapp.io/feedback"
+      },
+      {
+        "name": "GoVisually",
+        "description": "<div class=\"banner banner--yellow\">  </article>  <article id=\"design-handoff-tools\">  ### Design Handoff Tools  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"https://adobe.ly/33HVSdf\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png\" alt=\"Abobe XD\"/> </a> </p> </div> -->  Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate style guide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.",
+        "download": "https://govisually.com",
+        "website": "https://govisually.com"
+      }
+    ],
+    "Design Handoff Tools": [
+      {
+        "name": "Avocode",
+        "description": "",
+        "download": "https://avocode.com",
+        "website": "https://avocode.com"
+      },
+      {
+        "name": "Flawless App",
+        "description": "",
+        "download": "https://flawlessapp.io/",
+        "website": "https://flawlessapp.io/"
+      },
+      {
+        "name": "Inspect",
+        "description": "",
+        "download": "https://www.invisionapp.com/feature/inspect/",
+        "website": "https://www.invisionapp.com/feature/inspect/"
+      },
+      {
+        "name": "Sketch Measure",
+        "description": "",
+        "download": "https://github.com/utom/sketch-measure",
+        "website": "https://github.com/utom/sketch-measure"
+      },
+      {
+        "name": "Specctr",
+        "description": "",
+        "download": "https://specctr.com",
+        "website": "https://specctr.com"
+      },
+      {
+        "name": "Sympli",
+        "description": "",
+        "download": "https://sympli.io",
+        "website": "https://sympli.io"
+      },
+      {
+        "name": "Zeplin",
+        "description": "<div class=\"banner banner--yellow\">  You can also make a design handoff within Relay, mentioned in the [Design Version Control](#design-version-control) section.  </div>  </article>  <article id=\"design-inspiration\">  ### Design Inspiration  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  The creative process can be tough. So if ideas don\u2019t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:",
+        "download": "https://zeplin.io/",
+        "website": "https://zeplin.io/"
+      },
+      {
+        "name": "Design Version Control",
+        "description": "</div>  </article>  <article id=\"design-inspiration\">  ### Design Inspiration  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  The creative process can be tough. So if ideas don\u2019t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:",
+        "download": "#design-version-control",
+        "website": "#design-version-control"
+      }
+    ],
+    "Design Inspiration": [
+      {
+        "name": "Behance",
+        "description": "",
+        "download": "https://www.behance.net/",
+        "website": "https://www.behance.net/"
+      },
+      {
+        "name": "CodeMyUI",
+        "description": "",
+        "download": "https://codemyui.com/",
+        "website": "https://codemyui.com/"
+      },
+      {
+        "name": "Collect UI",
+        "description": "",
+        "download": "http://collectui.com/",
+        "website": "http://collectui.com/"
+      },
+      {
+        "name": "Creative Portfolios",
+        "description": "",
+        "download": "http://www.creative-portfolios.com/",
+        "website": "http://www.creative-portfolios.com/"
+      },
+      {
+        "name": "Design Hunt",
+        "description": "",
+        "download": "https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8",
+        "website": "https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8"
+      },
+      {
+        "name": "Dribbble",
+        "description": "",
+        "download": "https://dribbble.com/",
+        "website": "https://dribbble.com/"
+      },
+      {
+        "name": "Ficture",
+        "description": "",
+        "download": "https://ficture.design/",
+        "website": "https://ficture.design/"
+      },
+      {
+        "name": "Inspiration UI",
+        "description": "",
+        "download": "http://inspirationui.com/",
+        "website": "http://inspirationui.com/"
+      },
+      {
+        "name": "Hover States",
+        "description": "",
+        "download": "https://hoverstat.es/",
+        "website": "https://hoverstat.es/"
+      },
+      {
+        "name": "Httpster",
+        "description": "",
+        "download": "https://httpster.net/",
+        "website": "https://httpster.net/"
+      },
+      {
+        "name": "H69.Design",
+        "description": "",
+        "download": "https://www.h69.design/",
+        "website": "https://www.h69.design/"
+      },
+      {
+        "name": "Lapa Ninja",
+        "description": "",
+        "download": "https://www.lapa.ninja/",
+        "website": "https://www.lapa.ninja/"
+      },
+      {
+        "name": "Mobile Patterns",
+        "description": "",
+        "download": "https://www.mobile-patterns.com/",
+        "website": "https://www.mobile-patterns.com/"
+      },
+      {
+        "name": "Mobbin",
+        "description": "",
+        "download": "https://mobbin.design/",
+        "website": "https://mobbin.design/"
+      },
+      {
+        "name": "One Page Love",
+        "description": "",
+        "download": "https://onepagelove.com/gallery",
+        "website": "https://onepagelove.com/gallery"
+      },
+      {
+        "name": "Owwly",
+        "description": "",
+        "download": "https://owwly.com/feed/inspirations",
+        "website": "https://owwly.com/feed/inspirations"
+      },
+      {
+        "name": "Page Flows",
+        "description": "",
+        "download": "https://pageflows.com/",
+        "website": "https://pageflows.com/"
+      },
+      {
+        "name": "pttrns",
+        "description": "",
+        "download": "https://pttrns.com/",
+        "website": "https://pttrns.com/"
+      },
+      {
+        "name": "Really Good Emails",
+        "description": "",
+        "download": "https://reallygoodemails.com/",
+        "website": "https://reallygoodemails.com/"
+      },
+      {
+        "name": "ReallyGoodUX",
+        "description": "",
+        "download": "https://www.reallygoodux.io/",
+        "website": "https://www.reallygoodux.io/"
+      },
+      {
+        "name": "Saas Landing Page",
+        "description": "",
+        "download": "https://saaslandingpage.com/",
+        "website": "https://saaslandingpage.com/"
+      },
+      {
+        "name": "Saas Pages",
+        "description": "",
+        "download": "https://saaspages.xyz/",
+        "website": "https://saaspages.xyz/"
+      },
+      {
+        "name": "The Design Team",
+        "description": "",
+        "download": "https://thedesignteam.io/",
+        "website": "https://thedesignteam.io/"
+      },
+      {
+        "name": "Typewolf",
+        "description": "",
+        "download": "https://www.typewolf.com/",
+        "website": "https://www.typewolf.com/"
+      },
+      {
+        "name": "UI Garage",
+        "description": "",
+        "download": "https://uigarage.net/",
+        "website": "https://uigarage.net/"
+      },
+      {
+        "name": "UI Sources",
+        "description": "",
+        "download": "https://www.uisources.com/",
+        "website": "https://www.uisources.com/"
+      },
+      {
+        "name": "UI Recipes",
+        "description": "",
+        "download": "https://uirecipes.com/",
+        "website": "https://uirecipes.com/"
+      },
+      {
+        "name": "UX Archive",
+        "description": "",
+        "download": "http://uxarchive.com/",
+        "website": "http://uxarchive.com/"
+      },
+      {
+        "name": "Waveguide",
+        "description": "",
+        "download": "https://www.waveguide.io/",
+        "website": "https://www.waveguide.io/"
+      },
+      {
+        "name": "Web Design Museum",
+        "description": "</article>  <article id=\"design-system-tools\">  ### Design System Tools  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  I bet you heard about Design Systems, as it\u2019s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your design system.",
+        "download": "https://www.webdesignmuseum.org/",
+        "website": "https://www.webdesignmuseum.org/"
+      }
+    ],
+    "Design System Tools": [
+      {
+        "name": "Cabana",
+        "description": "",
+        "download": "https://cabanadesignsystem.com/",
+        "website": "https://cabanadesignsystem.com/"
+      },
+      {
+        "name": "Catalog",
+        "description": "",
+        "download": "https://www.catalog.style/",
+        "website": "https://www.catalog.style/"
+      },
+      {
+        "name": "Design System Manager",
+        "description": "",
+        "download": "https://www.invisionapp.com/design-system-manager/",
+        "website": "https://www.invisionapp.com/design-system-manager/"
+      },
+      {
+        "name": "DSK",
+        "description": "",
+        "download": "https://rundsk.com",
+        "website": "https://rundsk.com"
+      },
+      {
+        "name": "EOS Design System",
+        "description": "",
+        "download": "https://www.eosdesignsystem.com",
+        "website": "https://www.eosdesignsystem.com"
+      },
+      {
+        "name": "Eva Design System",
+        "description": "",
+        "download": "https://eva.design/",
+        "website": "https://eva.design/"
+      },
+      {
+        "name": "Frontify",
+        "description": "",
+        "download": "https://frontify.com/",
+        "website": "https://frontify.com/"
+      },
+      {
+        "name": "Interplay",
+        "description": "",
+        "download": "https://interplayapp.com/",
+        "website": "https://interplayapp.com/"
+      },
+      {
+        "name": "Lingo",
+        "description": "",
+        "download": "https://www.lingoapp.com/",
+        "website": "https://www.lingoapp.com/"
+      },
+      {
+        "name": "Lucid",
+        "description": "",
+        "download": "https://lucid.style/",
+        "website": "https://lucid.style/"
+      },
+      {
+        "name": "Modulz",
+        "description": "",
+        "download": "https://www.modulz.app/",
+        "website": "https://www.modulz.app/"
+      },
+      {
+        "name": "Prime Design System Kit",
+        "description": "",
+        "download": "https://www.primedesignsystem.com",
+        "website": "https://www.primedesignsystem.com"
+      },
+      {
+        "name": "Specify",
+        "description": "",
+        "download": "https://www.specifyapp.com/",
+        "website": "https://www.specifyapp.com/"
+      },
+      {
+        "name": "Storybook",
+        "description": "",
+        "download": "https://storybook.js.org/",
+        "website": "https://storybook.js.org/"
+      },
+      {
+        "name": "Symbol Design System",
+        "description": "",
+        "download": "https://symboldesign.co/",
+        "website": "https://symboldesign.co/"
+      },
+      {
+        "name": "Toolabs",
+        "description": "",
+        "download": "https://www.toolabs.com/",
+        "website": "https://www.toolabs.com/"
+      },
+      {
+        "name": "Zeroheight",
+        "description": "<div class=\"banner banner--yellow\">  We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).  </div>  </article>  <article id=\"design-to-code-tools\">  ### Design to Code Tools  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2ZwUoEq\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png\" alt=\"Supernova\"/> </a> </p> </div> -->  Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don\u2019t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.",
+        "download": "https://www.zeroheight.com/",
+        "website": "https://www.zeroheight.com/"
+      },
+      {
+        "name": "Framer X Team Store",
+        "description": "</div>  </article>  <article id=\"design-to-code-tools\">  ### Design to Code Tools  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2ZwUoEq\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png\" alt=\"Supernova\"/> </a> </p> </div> -->  Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don\u2019t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.",
+        "download": "https://www.framer.com/design-systems/",
+        "website": "https://www.framer.com/design-systems/"
+      }
+    ],
+    "Design to Code Tools": [
+      {
+        "name": "Anima",
+        "description": "",
+        "download": "https://www.animaapp.com/",
+        "website": "https://www.animaapp.com/"
+      },
+      {
+        "name": "Blocs",
+        "description": "",
+        "download": "https://blocsapp.com/",
+        "website": "https://blocsapp.com/"
+      },
+      {
+        "name": "Bootstrap Studio",
+        "description": "",
+        "download": "https://bootstrapstudio.io/",
+        "website": "https://bootstrapstudio.io/"
+      },
+      {
+        "name": "Draftbit",
+        "description": "",
+        "download": "https://draftbit.com/",
+        "website": "https://draftbit.com/"
+      },
+      {
+        "name": "EasyLogic Studio",
+        "description": "",
+        "download": "https://www.easylogic.studio/",
+        "website": "https://www.easylogic.studio/"
+      },
+      {
+        "name": "Grapedrop",
+        "description": "",
+        "download": "https://grapedrop.com/",
+        "website": "https://grapedrop.com/"
+      },
+      {
+        "name": "Mobirise",
+        "description": "",
+        "download": "https://mobirise.com/",
+        "website": "https://mobirise.com/"
+      },
+      {
+        "name": "PageCloud",
+        "description": "",
+        "download": "https://www.pagecloud.com/",
+        "website": "https://www.pagecloud.com/"
+      },
+      {
+        "name": "PaintCode",
+        "description": "",
+        "download": "https://www.paintcodeapp.com",
+        "website": "https://www.paintcodeapp.com"
+      },
+      {
+        "name": "Pinegrow",
+        "description": "",
+        "download": "https://pinegrow.com/",
+        "website": "https://pinegrow.com/"
+      },
+      {
+        "name": "px.div",
+        "description": "",
+        "download": "https://www.pxdiv.com",
+        "website": "https://www.pxdiv.com"
+      },
+      {
+        "name": "Readymag",
+        "description": "",
+        "download": "https://readymag.com/",
+        "website": "https://readymag.com/"
+      },
+      {
+        "name": "Sparkle",
+        "description": "",
+        "download": "https://sparkleapp.com/",
+        "website": "https://sparkleapp.com/"
+      },
+      {
+        "name": "STUDIO",
+        "description": "",
+        "download": "https://studio.design/",
+        "website": "https://studio.design/"
+      },
+      {
+        "name": "Supernova Studio",
+        "description": "",
+        "download": "https://supernova.io/",
+        "website": "https://supernova.io/"
+      },
+      {
+        "name": "Tilda",
+        "description": "",
+        "download": "https://tilda.cc/",
+        "website": "https://tilda.cc/"
+      },
+      {
+        "name": "Wix",
+        "description": "",
+        "download": "https://www.wix.com/",
+        "website": "https://www.wix.com/"
+      },
+      {
+        "name": "Webflow",
+        "description": "</article>  <article id=\"design-version-control\">  ### Design Version Control  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while the design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:",
+        "download": "https://webflow.com/",
+        "website": "https://webflow.com/"
+      }
+    ],
+    "Design Version Control": [
+      {
+        "name": "Abstract",
+        "description": "",
+        "download": "https://www.abstract.com/",
+        "website": "https://www.abstract.com/"
+      },
+      {
+        "name": "Folio",
+        "description": "",
+        "download": "http://folioformac.com/",
+        "website": "http://folioformac.com/"
+      },
+      {
+        "name": "Kactus",
+        "description": "",
+        "download": "https://kactus.io/",
+        "website": "https://kactus.io/"
+      },
+      {
+        "name": "Plant",
+        "description": "",
+        "download": "https://plantapp.io/",
+        "website": "https://plantapp.io/"
+      },
+      {
+        "name": "Relay for Figma",
+        "description": "",
+        "download": "https://relay.graphics/",
+        "website": "https://relay.graphics/"
+      },
+      {
+        "name": "Versions",
+        "description": "</article>  <article id=\"development-tools\">  ### Development Tools  This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.",
+        "download": "https://versions.sympli.io",
+        "website": "https://versions.sympli.io"
+      }
+    ],
+    "Development Tools": [
+      {
+        "name": "Blisk",
+        "description": "",
+        "download": "https://blisk.io",
+        "website": "https://blisk.io"
+      },
+      {
+        "name": "Firefox developer edition",
+        "description": "",
+        "download": "https://www.mozilla.org/en-US/firefox/developer/",
+        "website": "https://www.mozilla.org/en-US/firefox/developer/"
+      },
+      {
+        "name": "Litmus",
+        "description": "",
+        "download": "https://litmus.com/",
+        "website": "https://litmus.com/"
+      },
+      {
+        "name": "Polypane",
+        "description": "",
+        "download": "https://polypane.rocks",
+        "website": "https://polypane.rocks"
+      },
+      {
+        "name": "Storybook",
+        "description": "",
+        "download": "https://storybook.js.org/",
+        "website": "https://storybook.js.org/"
+      },
+      {
+        "name": "Styleguidist",
+        "description": "</article>  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/35I1q9q\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png\" alt=\"Maze\"/> </a> </p> </div> -->  <article id=\"experience-monitoring\">  ### Experience Monitoring  Listening to users is important but seeing the real usage is even more crucial. For these, you need to install different analytic tools, experience monitoring software, and user behavior apps. Just use those analytics solutions concerning users data:",
+        "download": "https://github.com/styleguidist/react-styleguidist",
+        "website": "https://github.com/styleguidist/react-styleguidist"
+      }
+    ],
+    "Experience Monitoring": [
+      {
+        "name": "Amplitude",
+        "description": "",
+        "download": "https://amplitude.com/",
+        "website": "https://amplitude.com/"
+      },
+      {
+        "name": "Chalkmark",
+        "description": "",
+        "download": "https://www.optimalworkshop.com/chalkmark",
+        "website": "https://www.optimalworkshop.com/chalkmark"
+      },
+      {
+        "name": "Fathom",
+        "description": "",
+        "download": "https://usefathom.com/",
+        "website": "https://usefathom.com/"
+      },
+      {
+        "name": "FullStory",
+        "description": "",
+        "download": "https://www.fullstory.com/",
+        "website": "https://www.fullstory.com/"
+      },
+      {
+        "name": "Google Analytics",
+        "description": "",
+        "download": "https://analytics.google.com/analytics/web/",
+        "website": "https://analytics.google.com/analytics/web/"
+      },
+      {
+        "name": "Heap",
+        "description": "",
+        "download": "https://heapanalytics.com/",
+        "website": "https://heapanalytics.com/"
+      },
+      {
+        "name": "Heatly",
+        "description": "",
+        "download": "https://www.heatlyanalytics.com",
+        "website": "https://www.heatlyanalytics.com"
+      },
+      {
+        "name": "Hotjar",
+        "description": "",
+        "download": "https://www.hotjar.com/",
+        "website": "https://www.hotjar.com/"
+      },
+      {
+        "name": "Inspectlet",
+        "description": "",
+        "download": "https://www.inspectlet.com/",
+        "website": "https://www.inspectlet.com/"
+      },
+      {
+        "name": "LiveSession",
+        "description": "",
+        "download": "https://livesession.io",
+        "website": "https://livesession.io"
+      },
+      {
+        "name": "LogRocket",
+        "description": "",
+        "download": "https://www.logrocket.com/",
+        "website": "https://www.logrocket.com/"
+      },
+      {
+        "name": "Mixpanel",
+        "description": "",
+        "download": "https://mixpanel.com/",
+        "website": "https://mixpanel.com/"
+      },
+      {
+        "name": "Mouseflow",
+        "description": "",
+        "download": "https://mouseflow.com/",
+        "website": "https://mouseflow.com/"
+      },
+      {
+        "name": "Pendo",
+        "description": "",
+        "download": "https://www.pendo.io/",
+        "website": "https://www.pendo.io/"
+      },
+      {
+        "name": "Smartlook",
+        "description": "",
+        "download": "https://www.smartlook.com",
+        "website": "https://www.smartlook.com"
+      },
+      {
+        "name": "Usabilla",
+        "description": "</article>  <article id=\"font-tools\">  ### Font Tools  Fonts are commonly used for making the web a more beautiful place. It\u2019s an essential part of any design. In this section, you\u2019ll find fonts generators & font finder tools that allow you to manage and work with fonts:",
+        "download": "https://usabilla.com",
+        "website": "https://usabilla.com"
+      }
+    ],
+    "Font Tools": [
+      {
+        "name": "BeFonts",
+        "description": "",
+        "download": "https://befonts.com/",
+        "website": "https://befonts.com/"
+      },
+      {
+        "name": "Behance Free Fonts",
+        "description": "",
+        "download": "https://www.behance.net/search/?search=free%20font",
+        "website": "https://www.behance.net/search/?search=free%20font"
+      },
+      {
+        "name": "DaFont",
+        "description": "",
+        "download": "https://www.dafont.com/",
+        "website": "https://www.dafont.com/"
+      },
+      {
+        "name": "Emotype",
+        "description": "",
+        "download": "http://emotype.webflow.io/",
+        "website": "http://emotype.webflow.io/"
+      },
+      {
+        "name": "Fontbase",
+        "description": "",
+        "download": "https://fontba.se/",
+        "website": "https://fontba.se/"
+      },
+      {
+        "name": "FontFabric",
+        "description": "",
+        "download": "https://www.fontfabric.com/",
+        "website": "https://www.fontfabric.com/"
+      },
+      {
+        "name": "Fontface Ninja",
+        "description": "",
+        "download": "https://fontface.ninja/",
+        "website": "https://fontface.ninja/"
+      },
+      {
+        "name": "FontPair",
+        "description": "",
+        "download": "https://fontpair.co/",
+        "website": "https://fontpair.co/"
+      },
+      {
+        "name": "Fontown",
+        "description": "",
+        "download": "https://www.fontown.com/en",
+        "website": "https://www.fontown.com/en"
+      },
+      {
+        "name": "Fonts",
+        "description": "",
+        "download": "https://fonts.adobe.com/fonts",
+        "website": "https://fonts.adobe.com/fonts"
+      },
+      {
+        "name": "Fonts Arena",
+        "description": "",
+        "download": "https://fontsarena.com/",
+        "website": "https://fontsarena.com/"
+      },
+      {
+        "name": "FontGet",
+        "description": "",
+        "download": "https://www.fontget.com/",
+        "website": "https://www.fontget.com/"
+      },
+      {
+        "name": "FontSelf",
+        "description": "",
+        "download": "https://www.fontself.com",
+        "website": "https://www.fontself.com"
+      },
+      {
+        "name": "FontSpark",
+        "description": "",
+        "download": "https://fontspark.app/",
+        "website": "https://fontspark.app/"
+      },
+      {
+        "name": "Font Squirrel",
+        "description": "",
+        "download": "https://www.fontsquirrel.com/fonts/acherus-grotesque",
+        "website": "https://www.fontsquirrel.com/fonts/acherus-grotesque"
+      },
+      {
+        "name": "Google Fonts",
+        "description": "",
+        "download": "https://fonts.google.com/",
+        "website": "https://fonts.google.com/"
+      },
+      {
+        "name": "Google Webfonts Helper",
+        "description": "",
+        "download": "https://google-webfonts-helper.herokuapp.com/",
+        "website": "https://google-webfonts-helper.herokuapp.com/"
+      },
+      {
+        "name": "LostType",
+        "description": "",
+        "download": "http://losttype.com/",
+        "website": "http://losttype.com/"
+      },
+      {
+        "name": "Measure",
+        "description": "",
+        "download": "https://chrome.google.com/webstore/detail/measure/bbompmbliibpeaaloikpoahdokhjdmeg",
+        "website": "https://chrome.google.com/webstore/detail/measure/bbompmbliibpeaaloikpoahdokhjdmeg"
+      },
+      {
+        "name": "RightFont",
+        "description": "",
+        "download": "https://rightfontapp.com/",
+        "website": "https://rightfontapp.com/"
+      },
+      {
+        "name": "Sans Forgetica",
+        "description": "",
+        "download": "http://sansforgetica.rmit/",
+        "website": "http://sansforgetica.rmit/"
+      },
+      {
+        "name": "Size Calculator",
+        "description": "",
+        "download": "https://sizecalc.com/",
+        "website": "https://sizecalc.com/"
+      },
+      {
+        "name": "Typeface",
+        "description": "",
+        "download": "https://typefaceapp.com/",
+        "website": "https://typefaceapp.com/"
+      },
+      {
+        "name": "Wakamai Fondue",
+        "description": "",
+        "download": "https://wakamaifondue.com/",
+        "website": "https://wakamaifondue.com/"
+      },
+      {
+        "name": "Web Font Preview",
+        "description": "",
+        "download": "https://webfontpreview.com/",
+        "website": "https://webfontpreview.com/"
+      },
+      {
+        "name": "Webfont",
+        "description": "",
+        "download": "https://webfontapp.com/",
+        "website": "https://webfontapp.com/"
+      },
+      {
+        "name": "WordMarkIt",
+        "description": "<div class=\"banner banner--yellow\">  You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.  </div>  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  </article>  <article id=\"gradient-tools\">  ### Gradient Tools  You can see gradient colors are everywhere \u2014 UI, branding, illustration, typography. A gradient is created by using two or more different colors to paint one element while gradually fading between them. It might look as a memorable, fresh and unique color. To make such a gradient for your design, use these gradient color palettes.",
+        "download": "https://wordmark.it/",
+        "website": "https://wordmark.it/"
+      },
+      {
+        "name": "Design System Tools",
+        "description": "</div>  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  </article>  <article id=\"gradient-tools\">  ### Gradient Tools  You can see gradient colors are everywhere \u2014 UI, branding, illustration, typography. A gradient is created by using two or more different colors to paint one element while gradually fading between them. It might look as a memorable, fresh and unique color. To make such a gradient for your design, use these gradient color palettes.",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools"
+      }
+    ],
+    "Gradient Tools": [
+      {
+        "name": "Blend",
+        "description": "",
+        "download": "http://www.colinkeany.com/blend/",
+        "website": "http://www.colinkeany.com/blend/"
+      },
+      {
+        "name": "Colorffy",
+        "description": "",
+        "download": "https://www.colorffy.com/",
+        "website": "https://www.colorffy.com/"
+      },
+      {
+        "name": "Colors & Fonts",
+        "description": "",
+        "download": "https://www.colorsandfonts.com/",
+        "website": "https://www.colorsandfonts.com/"
+      },
+      {
+        "name": "ColorSpace",
+        "description": "",
+        "download": "https://mycolor.space/",
+        "website": "https://mycolor.space/"
+      },
+      {
+        "name": "ColorSpark",
+        "description": "",
+        "download": "https://colorspark.app/gradient",
+        "website": "https://colorspark.app/gradient"
+      },
+      {
+        "name": "Cool Backgrounds",
+        "description": "",
+        "download": "https://coolbackgrounds.io/",
+        "website": "https://coolbackgrounds.io/"
+      },
+      {
+        "name": "CoolHue",
+        "description": "",
+        "download": "https://webkul.github.io/coolhue/",
+        "website": "https://webkul.github.io/coolhue/"
+      },
+      {
+        "name": "CSS Gradient",
+        "description": "",
+        "download": "https://cssgradient.io/",
+        "website": "https://cssgradient.io/"
+      },
+      {
+        "name": "Egg Gradients",
+        "description": "",
+        "download": "https://www.eggradients.com/",
+        "website": "https://www.eggradients.com/"
+      },
+      {
+        "name": "Grabient",
+        "description": "",
+        "download": "https://www.grabient.com/",
+        "website": "https://www.grabient.com/"
+      },
+      {
+        "name": "Gradienta",
+        "description": "",
+        "download": "https://gradienta.io/",
+        "website": "https://gradienta.io/"
+      },
+      {
+        "name": "GradientsList",
+        "description": "",
+        "download": "https://www.gradientslist.com",
+        "website": "https://www.gradientslist.com"
+      },
+      {
+        "name": "Gradient Generator",
+        "description": "",
+        "download": "https://colordesigner.io/gradient-generator",
+        "website": "https://colordesigner.io/gradient-generator"
+      },
+      {
+        "name": "Gradient Hunt",
+        "description": "",
+        "download": "https://gradienthunt.com/",
+        "website": "https://gradienthunt.com/"
+      },
+      {
+        "name": "Gradients Guru",
+        "description": "",
+        "download": "http://gradientsguru.com/",
+        "website": "http://gradientsguru.com/"
+      },
+      {
+        "name": "HtmlColours",
+        "description": "",
+        "download": "https://htmlcolors.com/",
+        "website": "https://htmlcolors.com/"
+      },
+      {
+        "name": "UI Gradients",
+        "description": "",
+        "download": "https://uigradients.com/",
+        "website": "https://uigradients.com/"
+      },
+      {
+        "name": "Web Gradients",
+        "description": "<div class=\"banner banner--yellow\">  You can also create and audit gradients with Leonardo, which is mentioned in the [Accessibility Tools section](#accessibility-tools).  </div>  </article>  <article id=\"icons-tools\">  ### Icons Tools  As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.",
+        "download": "https://webgradients.com/",
+        "website": "https://webgradients.com/"
+      },
+      {
+        "name": "Accessibility Tools section",
+        "description": "</div>  </article>  <article id=\"icons-tools\">  ### Icons Tools  As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.",
+        "download": "#accessibility-tools",
+        "website": "#accessibility-tools"
+      }
+    ],
+    "Icons Tools": [
+      {
+        "name": "Animaticons",
+        "description": "",
+        "download": "http://animaticons.co/",
+        "website": "http://animaticons.co/"
+      },
+      {
+        "name": "CoreUI Icons",
+        "description": "",
+        "download": "https://coreui.io/icons/",
+        "website": "https://coreui.io/icons/"
+      },
+      {
+        "name": "Digital Nomad Icons",
+        "description": "",
+        "download": "http://digitalnomadicons.com/",
+        "website": "http://digitalnomadicons.com/"
+      },
+      {
+        "name": "Essential Glyphs",
+        "description": "",
+        "download": "https://interface.market/essential/basic-pack",
+        "website": "https://interface.market/essential/basic-pack"
+      },
+      {
+        "name": "Feather Icons",
+        "description": "",
+        "download": "https://feathericons.com/",
+        "website": "https://feathericons.com/"
+      },
+      {
+        "name": "Flaticon",
+        "description": "",
+        "download": "https://www.flaticon.com/",
+        "website": "https://www.flaticon.com/"
+      },
+      {
+        "name": "Font Awesome",
+        "description": "",
+        "download": "https://fontawesome.com/",
+        "website": "https://fontawesome.com/"
+      },
+      {
+        "name": "Fontello",
+        "description": "",
+        "download": "http://fontello.com/",
+        "website": "http://fontello.com/"
+      },
+      {
+        "name": "Freepik",
+        "description": "",
+        "download": "https://www.freepik.com",
+        "website": "https://www.freepik.com"
+      },
+      {
+        "name": "Iconscout",
+        "description": "",
+        "download": "https://iconscout.com/",
+        "website": "https://iconscout.com/"
+      },
+      {
+        "name": "Iconfinder",
+        "description": "",
+        "download": "https://www.iconfinder.com",
+        "website": "https://www.iconfinder.com"
+      },
+      {
+        "name": "IconJar",
+        "description": "",
+        "download": "https://www.geticonjar.com/",
+        "website": "https://www.geticonjar.com/"
+      },
+      {
+        "name": "Iconmonstr",
+        "description": "",
+        "download": "https://iconmonstr.com/",
+        "website": "https://iconmonstr.com/"
+      },
+      {
+        "name": "Iconset",
+        "description": "",
+        "download": "https://iconset.io/",
+        "website": "https://iconset.io/"
+      },
+      {
+        "name": "Icon Store",
+        "description": "",
+        "download": "https://iconstore.co/",
+        "website": "https://iconstore.co/"
+      },
+      {
+        "name": "ICONSVG",
+        "description": "",
+        "download": "https://iconsvg.xyz/",
+        "website": "https://iconsvg.xyz/"
+      },
+      {
+        "name": "Icons8",
+        "description": "",
+        "download": "https://icons8.com/icons",
+        "website": "https://icons8.com/icons"
+      },
+      {
+        "name": "Ikonate",
+        "description": "",
+        "download": "https://www.ikonate.com/",
+        "website": "https://www.ikonate.com/"
+      },
+      {
+        "name": "illustrio",
+        "description": "",
+        "download": "https://illustrio.com/",
+        "website": "https://illustrio.com/"
+      },
+      {
+        "name": "Ionicons",
+        "description": "",
+        "download": "https://ionicons.com/",
+        "website": "https://ionicons.com/"
+      },
+      {
+        "name": "Material Design Icons",
+        "description": "",
+        "download": "https://materialdesignicons.com/",
+        "website": "https://materialdesignicons.com/"
+      },
+      {
+        "name": "Material Icons Library",
+        "description": "",
+        "download": "https://icons.pixsellz.io/",
+        "website": "https://icons.pixsellz.io/"
+      },
+      {
+        "name": "Motion",
+        "description": "",
+        "download": "https://www.getmotion.io",
+        "website": "https://www.getmotion.io"
+      },
+      {
+        "name": "Norde Source",
+        "description": "",
+        "download": "https://norde.io/",
+        "website": "https://norde.io/"
+      },
+      {
+        "name": "Noun Project",
+        "description": "",
+        "download": "https://thenounproject.com/",
+        "website": "https://thenounproject.com/"
+      },
+      {
+        "name": "Nucleo",
+        "description": "",
+        "download": "https://nucleoapp.com/",
+        "website": "https://nucleoapp.com/"
+      },
+      {
+        "name": "Orion Icons",
+        "description": "",
+        "download": "https://orioniconlibrary.com/all-icons",
+        "website": "https://orioniconlibrary.com/all-icons"
+      },
+      {
+        "name": "Simple Icons",
+        "description": "",
+        "download": "https://simpleicons.org/",
+        "website": "https://simpleicons.org/"
+      },
+      {
+        "name": "Share Icon",
+        "description": "",
+        "download": "https://www.shareicon.net/",
+        "website": "https://www.shareicon.net/"
+      },
+      {
+        "name": "Streamline Emoji",
+        "description": "",
+        "download": "http://emoji.streamlineicons.com/",
+        "website": "http://emoji.streamlineicons.com/"
+      },
+      {
+        "name": "Svgsus",
+        "description": "",
+        "download": "http://www.svgs.us/",
+        "website": "http://www.svgs.us/"
+      },
+      {
+        "name": "SVG Colorizer",
+        "description": "",
+        "download": "https://www.iconshock.com/svg-color/",
+        "website": "https://www.iconshock.com/svg-color/"
+      },
+      {
+        "name": "SVGRepo",
+        "description": "",
+        "download": "https://www.svgrepo.com/",
+        "website": "https://www.svgrepo.com/"
+      },
+      {
+        "name": "Tilda Icons",
+        "description": "",
+        "download": "https://tilda.cc/free-icons/",
+        "website": "https://tilda.cc/free-icons/"
+      },
+      {
+        "name": "Twemoji",
+        "description": "",
+        "download": "https://twemoji.twitter.com/",
+        "website": "https://twemoji.twitter.com/"
+      },
+      {
+        "name": "Unicons",
+        "description": "",
+        "download": "https://iconscout.com/unicons",
+        "website": "https://iconscout.com/unicons"
+      },
+      {
+        "name": "VisualPharm",
+        "description": "",
+        "download": "https://visualpharm.com/",
+        "website": "https://visualpharm.com/"
+      },
+      {
+        "name": "Xicons",
+        "description": "",
+        "download": "https://www.xicons.co/",
+        "website": "https://www.xicons.co/"
+      },
+      {
+        "name": "Zwicon",
+        "description": "<div class=\"banner banner--yellow\">  You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.  </div>  </article>  <article id=\"illustrations\">  ### Illustrations  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:",
+        "download": "https://www.zwicon.com/",
+        "website": "https://www.zwicon.com/"
+      },
+      {
+        "name": "Design System Tools",
+        "description": "</div>  </article>  <article id=\"illustrations\">  ### Illustrations  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools"
+      }
+    ],
+    "Illustrations": [
+      {
+        "name": "Absurd Design",
+        "description": "",
+        "download": "https://absurd.design",
+        "website": "https://absurd.design"
+      },
+      {
+        "name": "Blobmaker",
+        "description": "",
+        "download": "https://www.blobmaker.app/",
+        "website": "https://www.blobmaker.app/"
+      },
+      {
+        "name": "Blush",
+        "description": "",
+        "download": "https://blush.design/",
+        "website": "https://blush.design/"
+      },
+      {
+        "name": "Humaaans",
+        "description": "",
+        "download": "https://www.humaaans.com/",
+        "website": "https://www.humaaans.com/"
+      },
+      {
+        "name": "Illustration by Pngtree",
+        "description": "",
+        "download": "https://pngtree.com/illustration-design",
+        "website": "https://pngtree.com/illustration-design"
+      },
+      {
+        "name": "IRA Design",
+        "description": "",
+        "download": "https://iradesign.io/",
+        "website": "https://iradesign.io/"
+      },
+      {
+        "name": "JoeSchmoe",
+        "description": "",
+        "download": "https://joeschmoe.io",
+        "website": "https://joeschmoe.io"
+      },
+      {
+        "name": "LukaszAdam",
+        "description": "",
+        "download": "https://lukaszadam.com/illustrations",
+        "website": "https://lukaszadam.com/illustrations"
+      },
+      {
+        "name": "ManyPixels",
+        "description": "",
+        "download": "https://gallery.manypixels.co",
+        "website": "https://gallery.manypixels.co"
+      },
+      {
+        "name": "Mega Doodles Pack",
+        "description": "",
+        "download": "https://github.com/MariaLetta/mega-doodles-pack",
+        "website": "https://github.com/MariaLetta/mega-doodles-pack"
+      },
+      {
+        "name": "Open Doodles",
+        "description": "",
+        "download": "https://www.opendoodles.com/",
+        "website": "https://www.opendoodles.com/"
+      },
+      {
+        "name": "Ouch",
+        "description": "",
+        "download": "https://icons8.com/ouch",
+        "website": "https://icons8.com/ouch"
+      },
+      {
+        "name": "Squircley",
+        "description": "",
+        "download": "https://squircley.app/",
+        "website": "https://squircley.app/"
+      },
+      {
+        "name": "unDraw",
+        "description": "",
+        "download": "https://undraw.co",
+        "website": "https://undraw.co"
+      },
+      {
+        "name": "Wannapik",
+        "description": "</article>  <article id=\"information-architecture\">  ### Information Architecture  Information architecture helps designers organize and structure content inside websites, mobile apps, and other software. So users will understand product functionality and will find everything needed. These information architecture tools should allow you to create visual sitemaps and to improve your website content structure:",
+        "download": "https://www.wannapik.com/",
+        "website": "https://www.wannapik.com/"
+      }
+    ],
+    "Information Architecture": [
+      {
+        "name": "DYNO Mapper",
+        "description": "",
+        "download": "https://dynomapper.com/",
+        "website": "https://dynomapper.com/"
+      },
+      {
+        "name": "Octopus.do",
+        "description": "",
+        "download": "https://octopus.do",
+        "website": "https://octopus.do"
+      },
+      {
+        "name": "OmniGraffle",
+        "description": "",
+        "download": "https://www.omnigroup.com/omnigraffle/",
+        "website": "https://www.omnigroup.com/omnigraffle/"
+      },
+      {
+        "name": "OptimalSort",
+        "description": "",
+        "download": "https://www.optimalworkshop.com/optimalsort",
+        "website": "https://www.optimalworkshop.com/optimalsort"
+      },
+      {
+        "name": "Treejack",
+        "description": "",
+        "download": "https://www.optimalworkshop.com/treejack",
+        "website": "https://www.optimalworkshop.com/treejack"
+      },
+      {
+        "name": "WriteMaps",
+        "description": "</article>  <article id=\"logo-design\">  ### Logo Design  A logo is the starting point of your brand identity. It reflects the product mission, functionality and brand message. Ideally, the logo creates a strong connection between your product and the users. Logo design is an art, as well as many other design disciplines. With the right logo design tools, this art can be done right a bit faster.",
+        "download": "https://writemaps.com/",
+        "website": "https://writemaps.com/"
+      }
+    ],
+    "Logo Design": [
+      {
+        "name": "Design Evo",
+        "description": "",
+        "download": "https://www.designevo.com/",
+        "website": "https://www.designevo.com/"
+      },
+      {
+        "name": "Free Logo Design",
+        "description": "",
+        "download": "https://www.freelogodesign.org/",
+        "website": "https://www.freelogodesign.org/"
+      },
+      {
+        "name": "Graphic Springs",
+        "description": "",
+        "download": "https://www.graphicsprings.com/",
+        "website": "https://www.graphicsprings.com/"
+      },
+      {
+        "name": "Logo Design Team",
+        "description": "",
+        "download": "https://www.logodesignteam.com/",
+        "website": "https://www.logodesignteam.com/"
+      },
+      {
+        "name": "Logojoy",
+        "description": "",
+        "download": "https://logojoy.com/",
+        "website": "https://logojoy.com/"
+      },
+      {
+        "name": "Logo Lab",
+        "description": "",
+        "download": "https://logolab.app/home",
+        "website": "https://logolab.app/home"
+      },
+      {
+        "name": "Logo Maker",
+        "description": "",
+        "download": "https://www.ucraft.com/free-logo-maker",
+        "website": "https://www.ucraft.com/free-logo-maker"
+      },
+      {
+        "name": "Logo Maker",
+        "description": "",
+        "download": "https://www.designhill.com/tools/logo-maker",
+        "website": "https://www.designhill.com/tools/logo-maker"
+      },
+      {
+        "name": "Logo Makr",
+        "description": "",
+        "download": "https://logomakr.com/",
+        "website": "https://logomakr.com/"
+      },
+      {
+        "name": "Logo My Way",
+        "description": "",
+        "download": "https://www.logomyway.com/",
+        "website": "https://www.logomyway.com/"
+      },
+      {
+        "name": "Logo Package Express",
+        "description": "",
+        "download": "http://thelogopackage.com",
+        "website": "http://thelogopackage.com"
+      },
+      {
+        "name": "Logo Rank",
+        "description": "",
+        "download": "https://brandmark.io/logo-rank/",
+        "website": "https://brandmark.io/logo-rank/"
+      },
+      {
+        "name": "Wizlogo",
+        "description": "<div class=\"banner banner--yellow\">  You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools).  </div>  </article>  <article id=\"mockup-tools\">  ### Mockup Tools  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33KtOpN\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png\" alt=\"ProtoPie\"/> </a> </p> </div> -->  A mockup is a visual way of representing the product. While a wireframe mostly represents a product\u2019s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:",
+        "download": "https://wizlogo.com/",
+        "website": "https://wizlogo.com/"
+      },
+      {
+        "name": "UI design tools",
+        "description": "</div>  </article>  <article id=\"mockup-tools\">  ### Mockup Tools  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33KtOpN\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png\" alt=\"ProtoPie\"/> </a> </p> </div> -->  A mockup is a visual way of representing the product. While a wireframe mostly represents a product\u2019s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools"
+      }
+    ],
+    "Mockup Tools": [
+      {
+        "name": "Artboard Studio",
+        "description": "",
+        "download": "https://artboard.studio/",
+        "website": "https://artboard.studio/"
+      },
+      {
+        "name": "Cleanmock",
+        "description": "",
+        "download": "https://cleanmock.com",
+        "website": "https://cleanmock.com"
+      },
+      {
+        "name": "Craftwork Design",
+        "description": "",
+        "download": "https://craftwork.design/",
+        "website": "https://craftwork.design/"
+      },
+      {
+        "name": "Device Shots",
+        "description": "",
+        "download": "https://deviceshots.com",
+        "website": "https://deviceshots.com"
+      },
+      {
+        "name": "Devices by Facebook",
+        "description": "",
+        "download": "https://facebook.design/devices",
+        "website": "https://facebook.design/devices"
+      },
+      {
+        "name": "Dimmy.club",
+        "description": "",
+        "download": "https://dimmy.club/",
+        "website": "https://dimmy.club/"
+      },
+      {
+        "name": "Frrames",
+        "description": "",
+        "download": "https://frrames.com/",
+        "website": "https://frrames.com/"
+      },
+      {
+        "name": "Lstore Graphics",
+        "description": "",
+        "download": "https://www.ls.graphics/",
+        "website": "https://www.ls.graphics/"
+      },
+      {
+        "name": "Mediamodifier",
+        "description": "",
+        "download": "https://mediamodifier.com",
+        "website": "https://mediamodifier.com"
+      },
+      {
+        "name": "Mockflow",
+        "description": "",
+        "download": "https://www.mockflow.com/",
+        "website": "https://www.mockflow.com/"
+      },
+      {
+        "name": "Mockup World",
+        "description": "",
+        "download": "https://www.mockupworld.co/",
+        "website": "https://www.mockupworld.co/"
+      },
+      {
+        "name": "Mockups For Free",
+        "description": "",
+        "download": "https://mockupsforfree.com/",
+        "website": "https://mockupsforfree.com/"
+      },
+      {
+        "name": "Mockuuups",
+        "description": "",
+        "download": "https://mockuuups.studio/",
+        "website": "https://mockuuups.studio/"
+      },
+      {
+        "name": "Mock Video",
+        "description": "",
+        "download": "https://www.mock.video/",
+        "website": "https://www.mock.video/"
+      },
+      {
+        "name": "Moqups",
+        "description": "",
+        "download": "https://moqups.com/",
+        "website": "https://moqups.com/"
+      },
+      {
+        "name": "Original Mockups",
+        "description": "",
+        "download": "https://originalmockups.com/",
+        "website": "https://originalmockups.com/"
+      },
+      {
+        "name": "Overframe for Mac",
+        "description": "",
+        "download": "https://overframe.xyz/",
+        "website": "https://overframe.xyz/"
+      },
+      {
+        "name": "PixelBuddha",
+        "description": "",
+        "download": "https://pixelbuddha.net/",
+        "website": "https://pixelbuddha.net/"
+      },
+      {
+        "name": "Ramotion Store",
+        "description": "",
+        "download": "https://store.ramotion.com/",
+        "website": "https://store.ramotion.com/"
+      },
+      {
+        "name": "Rotato",
+        "description": "",
+        "download": "https://www.rotato.xyz/",
+        "website": "https://www.rotato.xyz/"
+      },
+      {
+        "name": "SceneLab",
+        "description": "",
+        "download": "https://scenelab.io",
+        "website": "https://scenelab.io"
+      },
+      {
+        "name": "Screely",
+        "description": "",
+        "download": "https://www.screely.com/",
+        "website": "https://www.screely.com/"
+      },
+      {
+        "name": "ScreenSpace",
+        "description": "",
+        "download": "https://www.screenspace.io/",
+        "website": "https://www.screenspace.io/"
+      },
+      {
+        "name": "Screenzy",
+        "description": "",
+        "download": "https://screenzy.io",
+        "website": "https://screenzy.io"
+      },
+      {
+        "name": "Screeener",
+        "description": "",
+        "download": "https://github.com/zehfernandes/screeener",
+        "website": "https://github.com/zehfernandes/screeener"
+      },
+      {
+        "name": "Smartmockups",
+        "description": "",
+        "download": "https://smartmockups.com/",
+        "website": "https://smartmockups.com/"
+      },
+      {
+        "name": "shotsnapp",
+        "description": "",
+        "download": "https://shotsnapp.com/",
+        "website": "https://shotsnapp.com/"
+      },
+      {
+        "name": "The Mockup Club",
+        "description": "",
+        "download": "https://themockup.club/",
+        "website": "https://themockup.club/"
+      },
+      {
+        "name": "Threed",
+        "description": "",
+        "download": "http://threed.io/",
+        "website": "http://threed.io/"
+      },
+      {
+        "name": "UI Store Design",
+        "description": "",
+        "download": "https://www.uistore.design/",
+        "website": "https://www.uistore.design/"
+      },
+      {
+        "name": "UI8 \u2014 Design Freebies",
+        "description": "",
+        "download": "https://ui8.net/category/freebies",
+        "website": "https://ui8.net/category/freebies"
+      },
+      {
+        "name": "Vector Mockups Library",
+        "description": "</article>  <article id=\"no-code-tools\">  ### No Code Tools  With a rise of \u201cno code tools\u201d, everyone with a laptop can build and launch a project. These tools help designers and makers create websites, apps, and even games. No code tools allow to automate routine tasks and can be used without a development background. Take a look at the tools here and if you need more \u2014 check Design to Code section.",
+        "download": "https://mockups.kkuistore.com/",
+        "website": "https://mockups.kkuistore.com/"
+      }
+    ],
+    "No Code Tools": [
+      {
+        "name": "Bubble",
+        "description": "",
+        "download": "https://bubble.io/",
+        "website": "https://bubble.io/"
+      },
+      {
+        "name": "Carrd",
+        "description": "",
+        "download": "https://carrd.co/",
+        "website": "https://carrd.co/"
+      },
+      {
+        "name": "Coda",
+        "description": "",
+        "download": "https://coda.io",
+        "website": "https://coda.io"
+      },
+      {
+        "name": "Kodika.io",
+        "description": "",
+        "download": "https://kodika.io",
+        "website": "https://kodika.io"
+      },
+      {
+        "name": "PageXL",
+        "description": "",
+        "download": "https://pagexl.com/",
+        "website": "https://pagexl.com/"
+      },
+      {
+        "name": "Remove.bg",
+        "description": "",
+        "download": "https://www.remove.bg/",
+        "website": "https://www.remove.bg/"
+      },
+      {
+        "name": "Retool",
+        "description": "",
+        "download": "https://tryretool.com/",
+        "website": "https://tryretool.com/"
+      },
+      {
+        "name": "sheet2api",
+        "description": "",
+        "download": "https://sheet2api.com/",
+        "website": "https://sheet2api.com/"
+      },
+      {
+        "name": "Sheet2Site",
+        "description": "",
+        "download": "https://www.sheet2site.com/",
+        "website": "https://www.sheet2site.com/"
+      },
+      {
+        "name": "Shopify",
+        "description": "",
+        "download": "https://www.shopify.com/",
+        "website": "https://www.shopify.com/"
+      },
+      {
+        "name": "Thunkable",
+        "description": "",
+        "download": "https://thunkable.com/",
+        "website": "https://thunkable.com/"
+      },
+      {
+        "name": "UserGuiding",
+        "description": "</article>  <article id=\"pixel-art-tools\">  ### Pixel Art Tools  Pixel art is a digital art form where color is applied to individual pixels to create an image. The pixel art can be used to create everything from intricate scenes and game backgrounds to character designs or emoji. If you feel curious to try, check this pixel art software for both macOS and Windows:",
+        "download": "https://userguiding.com/",
+        "website": "https://userguiding.com/"
+      }
+    ],
+    "Pixel Art Tools": [
+      {
+        "name": "Aseprite",
+        "description": "",
+        "download": "https://www.aseprite.org/",
+        "website": "https://www.aseprite.org/"
+      },
+      {
+        "name": "Data Pixels",
+        "description": "",
+        "download": "https://github.com/gmattie/Data-Pixels",
+        "website": "https://github.com/gmattie/Data-Pixels"
+      },
+      {
+        "name": "Draw!",
+        "description": "",
+        "download": "http://www.drawbang.com/",
+        "website": "http://www.drawbang.com/"
+      },
+      {
+        "name": "Grafx2",
+        "description": "",
+        "download": "https://gitlab.com/GrafX2/grafX2",
+        "website": "https://gitlab.com/GrafX2/grafX2"
+      },
+      {
+        "name": "GraphicsGale",
+        "description": "",
+        "download": "https://graphicsgale.com/us/",
+        "website": "https://graphicsgale.com/us/"
+      },
+      {
+        "name": "Goya",
+        "description": "",
+        "download": "https://jackschaedler.github.io/goya/",
+        "website": "https://jackschaedler.github.io/goya/"
+      },
+      {
+        "name": "Make 8 bit art",
+        "description": "",
+        "download": "https://make8bitart.com/",
+        "website": "https://make8bitart.com/"
+      },
+      {
+        "name": "Piskel",
+        "description": "",
+        "download": "https://www.piskelapp.com/",
+        "website": "https://www.piskelapp.com/"
+      },
+      {
+        "name": "Pixel art to CSS",
+        "description": "",
+        "download": "https://www.pixelartcss.com/",
+        "website": "https://www.pixelartcss.com/"
+      },
+      {
+        "name": "Poxi",
+        "description": "",
+        "download": "http://app.poxi.rocks/",
+        "website": "http://app.poxi.rocks/"
+      },
+      {
+        "name": "Pyxel Edit",
+        "description": "</article>  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33KtOpN\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png\" alt=\"ProtoPie\"/> </a> </p> </div> -->  <article id=\"prototyping-tools\">  ### Prototyping Tools  A prototype is a simple experimental design of a proposed solution. It should help to test ideas, design assumptions, and hypotheses in a fast and cheap way. Prototyping tools allow designers and clients to see how the product would function in the real world and collaborate on this solution. Many modern prototyping tools can use for wireframing, prototyping, and collaboration:",
+        "download": "https://pyxeledit.com/",
+        "website": "https://pyxeledit.com/"
+      }
+    ],
+    "Prototyping Tools": [
+      {
+        "name": "Alva",
+        "description": "",
+        "download": "https://www.meetalva.io/",
+        "website": "https://www.meetalva.io/"
+      },
+      {
+        "name": "Axure RP",
+        "description": "",
+        "download": "https://www.axure.com/",
+        "website": "https://www.axure.com/"
+      },
+      {
+        "name": "SAP Build",
+        "description": "",
+        "download": "https://www.build.me/",
+        "website": "https://www.build.me/"
+      },
+      {
+        "name": "Creo",
+        "description": "",
+        "download": "https://creolabs.com/",
+        "website": "https://creolabs.com/"
+      },
+      {
+        "name": "Drama",
+        "description": "",
+        "download": "https://www.drama.app/",
+        "website": "https://www.drama.app/"
+      },
+      {
+        "name": "InVision",
+        "description": "",
+        "download": "https://www.invisionapp.com/",
+        "website": "https://www.invisionapp.com/"
+      },
+      {
+        "name": "Flinto",
+        "description": "",
+        "download": "https://www.flinto.com/",
+        "website": "https://www.flinto.com/"
+      },
+      {
+        "name": "Framer X",
+        "description": "",
+        "download": "https://framer.com/",
+        "website": "https://framer.com/"
+      },
+      {
+        "name": "Keynote",
+        "description": "",
+        "download": "https://www.apple.com/keynote/",
+        "website": "https://www.apple.com/keynote/"
+      },
+      {
+        "name": "Lightwell",
+        "description": "",
+        "download": "https://lightwell.pro/",
+        "website": "https://lightwell.pro/"
+      },
+      {
+        "name": "Marvel App",
+        "description": "",
+        "download": "https://marvelapp.com/",
+        "website": "https://marvelapp.com/"
+      },
+      {
+        "name": "Maze",
+        "description": "",
+        "download": "https://maze.design/",
+        "website": "https://maze.design/"
+      },
+      {
+        "name": "Origami",
+        "description": "",
+        "download": "https://origami.design/",
+        "website": "https://origami.design/"
+      },
+      {
+        "name": "Pencil",
+        "description": "",
+        "download": "https://pencil.evolus.vn/",
+        "website": "https://pencil.evolus.vn/"
+      },
+      {
+        "name": "Principle",
+        "description": "",
+        "download": "https://principleformac.com/",
+        "website": "https://principleformac.com/"
+      },
+      {
+        "name": "ProtoPie",
+        "description": "",
+        "download": "https://www.protopie.io/",
+        "website": "https://www.protopie.io/"
+      },
+      {
+        "name": "Proto.io",
+        "description": "",
+        "download": "https://proto.io/",
+        "website": "https://proto.io/"
+      },
+      {
+        "name": "Prott",
+        "description": "",
+        "download": "https://prottapp.com/",
+        "website": "https://prottapp.com/"
+      },
+      {
+        "name": "Uizard",
+        "description": "",
+        "download": "https://uizard.io/",
+        "website": "https://uizard.io/"
+      },
+      {
+        "name": "Useberry",
+        "description": "",
+        "download": "https://www.useberry.com/",
+        "website": "https://www.useberry.com/"
+      },
+      {
+        "name": "UXPin",
+        "description": "<div class=\"banner banner--yellow\">  You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the [UI Design Tools section](#ui-design-tools).  </div>  </article>  <article id=\"screenshot-software\">  ### Screenshot Software  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:",
+        "download": "https://www.uxpin.com/",
+        "website": "https://www.uxpin.com/"
+      },
+      {
+        "name": "UI Design Tools section",
+        "description": "</div>  </article>  <article id=\"screenshot-software\">  ### Screenshot Software  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/2VQVTJ8\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png\" alt=\"Porkbun\"/> </a> </p> </div> -->  Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:",
+        "download": "#ui-design-tools",
+        "website": "#ui-design-tools"
+      }
+    ],
+    "Screenshot Software": [
+      {
+        "name": "Camtasia",
+        "description": "",
+        "download": "https://www.techsmith.com/video-editor.html",
+        "website": "https://www.techsmith.com/video-editor.html"
+      },
+      {
+        "name": "CleanShot",
+        "description": "",
+        "download": "https://getcleanshot.com",
+        "website": "https://getcleanshot.com"
+      },
+      {
+        "name": "CloudApp",
+        "description": "",
+        "download": "https://www.getcloudapp.com/",
+        "website": "https://www.getcloudapp.com/"
+      },
+      {
+        "name": "Collabshot",
+        "description": "",
+        "download": "https://www.collabshot.com/",
+        "website": "https://www.collabshot.com/"
+      },
+      {
+        "name": "Gifox",
+        "description": "",
+        "download": "https://gifox.io",
+        "website": "https://gifox.io"
+      },
+      {
+        "name": "Giphy Capture",
+        "description": "",
+        "download": "https://giphy.com/apps/giphycapture",
+        "website": "https://giphy.com/apps/giphycapture"
+      },
+      {
+        "name": "Greenshot",
+        "description": "",
+        "download": "https://getgreenshot.org/",
+        "website": "https://getgreenshot.org/"
+      },
+      {
+        "name": "Kap",
+        "description": "",
+        "download": "https://getkap.co",
+        "website": "https://getkap.co"
+      },
+      {
+        "name": "Lighshot",
+        "description": "",
+        "download": "https://itunes.apple.com/us/app/lightshot-screenshot/id526298438",
+        "website": "https://itunes.apple.com/us/app/lightshot-screenshot/id526298438"
+      },
+      {
+        "name": "Monosnap",
+        "description": "",
+        "download": "https://itunes.apple.com/us/app/monosnap/id540348655?mt=12",
+        "website": "https://itunes.apple.com/us/app/monosnap/id540348655?mt=12"
+      },
+      {
+        "name": "OBS",
+        "description": "",
+        "download": "https://obsproject.com/",
+        "website": "https://obsproject.com/"
+      },
+      {
+        "name": "Quicktime",
+        "description": "",
+        "download": "https://support.apple.com/quicktime",
+        "website": "https://support.apple.com/quicktime"
+      },
+      {
+        "name": "ScreenFlow",
+        "description": "software for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)",
+        "download": "http://www.telestream.net/screenflow/overview.htm",
+        "website": "http://www.telestream.net/screenflow/overview.htm"
+      },
+      {
+        "name": "mac.svg",
+        "description": "",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg"
+      },
+      {
+        "name": "Screenie",
+        "description": "",
+        "download": "https://www.thnkdev.com/Screenie/",
+        "website": "https://www.thnkdev.com/Screenie/"
+      },
+      {
+        "name": "ScreenshotAPI.net",
+        "description": "",
+        "download": "https://screenshotapi.net",
+        "website": "https://screenshotapi.net"
+      },
+      {
+        "name": "ScreenToGif",
+        "description": "",
+        "download": "https://www.screentogif.com/",
+        "website": "https://www.screentogif.com/"
+      },
+      {
+        "name": "ShareX",
+        "description": "",
+        "download": "https://getsharex.com/",
+        "website": "https://getsharex.com/"
+      },
+      {
+        "name": "Shotty",
+        "description": "",
+        "download": "https://meetshotty.com",
+        "website": "https://meetshotty.com"
+      },
+      {
+        "name": "Snagit",
+        "description": "",
+        "download": "https://www.techsmith.com/screen-capture.html",
+        "website": "https://www.techsmith.com/screen-capture.html"
+      },
+      {
+        "name": "Snipping Tool",
+        "description": "",
+        "download": "https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots",
+        "website": "https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots"
+      },
+      {
+        "name": "Snappy",
+        "description": "",
+        "download": "http://snappy-app.com/",
+        "website": "http://snappy-app.com/"
+      },
+      {
+        "name": "Teampaper Snap",
+        "description": "</article>  <article id=\"sketching-tools\">  ### Sketching Tools  Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process:",
+        "download": "https://teampaper.me/snap/",
+        "website": "https://teampaper.me/snap/"
+      }
+    ],
+    "Sketching Tools": [
+      {
+        "name": "Responsive Sketchsheets",
+        "description": "",
+        "download": "https://zurb.com/playground/responsive-sketchsheets",
+        "website": "https://zurb.com/playground/responsive-sketchsheets"
+      },
+      {
+        "name": "Sketchsheets",
+        "description": "",
+        "download": "https://sketchsheets.com/",
+        "website": "https://sketchsheets.com/"
+      },
+      {
+        "name": "Sneakpeekit",
+        "description": "",
+        "download": "https://sneakpeekit.com/",
+        "website": "https://sneakpeekit.com/"
+      },
+      {
+        "name": "Sketchize",
+        "description": "<div class=\"banner banner--yellow\">  You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools).  </div>  </article>  <article id=\"smm-design-tools\">  ### SMM Design Tools  Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs.",
+        "download": "https://sketchize.com/",
+        "website": "https://sketchize.com/"
+      },
+      {
+        "name": "UI design tools",
+        "description": "</div>  </article>  <article id=\"smm-design-tools\">  ### SMM Design Tools  Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs.",
+        "download": "https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools",
+        "website": "https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools"
+      }
+    ],
+    "SMM Design Tools": [
+      {
+        "name": "Canva",
+        "description": "",
+        "download": "https://www.canva.com/",
+        "website": "https://www.canva.com/"
+      },
+      {
+        "name": "Crello",
+        "description": "",
+        "download": "https://crello.com/",
+        "website": "https://crello.com/"
+      },
+      {
+        "name": "Pablo by Buffer",
+        "description": "",
+        "download": "https://pablo.buffer.com/",
+        "website": "https://pablo.buffer.com/"
+      },
+      {
+        "name": "Remove.bg",
+        "description": "",
+        "download": "https://www.remove.bg/",
+        "website": "https://www.remove.bg/"
+      },
+      {
+        "name": "SocialSizes",
+        "description": "",
+        "download": "https://socialsizes.io/",
+        "website": "https://socialsizes.io/"
+      },
+      {
+        "name": "Stencil",
+        "description": "</article>  <article id=\"sound-design\">  ### Sound Design  Sound design is an art of creating a soundscape for a site, app, movie, game or any other product. The sound has great potential for transforming the way people connect with your product. Some sound design software is very advanced and can be used mostly by sound designers, while others are good for beginners.",
+        "download": "https://getstencil.com/",
+        "website": "https://getstencil.com/"
+      }
+    ],
+    "Sound Design": [
+      {
+        "name": "Appsounds",
+        "description": "",
+        "download": "https://appsounds.pro/",
+        "website": "https://appsounds.pro/"
+      },
+      {
+        "name": "AudioJungle",
+        "description": "",
+        "download": "https://audiojungle.net/",
+        "website": "https://audiojungle.net/"
+      },
+      {
+        "name": "Bensound",
+        "description": "",
+        "download": "https://www.bensound.com/",
+        "website": "https://www.bensound.com/"
+      },
+      {
+        "name": "Freesound",
+        "description": "",
+        "download": "https://freesound.org/",
+        "website": "https://freesound.org/"
+      },
+      {
+        "name": "Fugue Music",
+        "description": "",
+        "download": "https://icons8.com/music",
+        "website": "https://icons8.com/music"
+      },
+      {
+        "name": "Max",
+        "description": "",
+        "download": "https://cycling74.com/products/max/",
+        "website": "https://cycling74.com/products/max/"
+      },
+      {
+        "name": "Reaper",
+        "description": "",
+        "download": "http://reaper.fm/",
+        "website": "http://reaper.fm/"
+      },
+      {
+        "name": "Sonic Pi",
+        "description": "",
+        "download": "https://sonic-pi.net/",
+        "website": "https://sonic-pi.net/"
+      },
+      {
+        "name": "SoundKit",
+        "description": "",
+        "download": "https://soundkit.io/",
+        "website": "https://soundkit.io/"
+      },
+      {
+        "name": "UI Sounds",
+        "description": "",
+        "download": "https://uisounds.prototypr.io/",
+        "website": "https://uisounds.prototypr.io/"
+      },
+      {
+        "name": "Wistia Music",
+        "description": "",
+        "download": "https://wistia.com/resources/music",
+        "website": "https://wistia.com/resources/music"
+      },
+      {
+        "name": "WOWA",
+        "description": "",
+        "download": "https://www.wowa.me/",
+        "website": "https://www.wowa.me/"
+      },
+      {
+        "name": "YouTube Audio Library",
+        "description": "</article>  <article id=\"stock-photos-tools\">  ### Stock Photos Tools  Need a high-quality photo for iOS app or new banner? You can always shoot it yourself or borrow from the stock photo sites. Luckily, there are hundreds of beautiful, free stock photos and royalty-free images that you can use for any project:",
+        "download": "https://www.youtube.com/audiolibrary/music",
+        "website": "https://www.youtube.com/audiolibrary/music"
+      }
+    ],
+    "Stock Photos Tools": [
+      {
+        "name": "Burst",
+        "description": "",
+        "download": "https://burst.shopify.com/",
+        "website": "https://burst.shopify.com/"
+      },
+      {
+        "name": "Duotone",
+        "description": "",
+        "download": "https://duotone.shapefactory.co/",
+        "website": "https://duotone.shapefactory.co/"
+      },
+      {
+        "name": "Death to Stock",
+        "description": "",
+        "download": "https://deathtothestockphoto.com/",
+        "website": "https://deathtothestockphoto.com/"
+      },
+      {
+        "name": "FoodiesFeed",
+        "description": "",
+        "download": "https://foodiesfeed.com/",
+        "website": "https://foodiesfeed.com/"
+      },
+      {
+        "name": "FreePhotos.cc",
+        "description": "",
+        "download": "https://freephotos.cc/",
+        "website": "https://freephotos.cc/"
+      },
+      {
+        "name": "Freestocks.org",
+        "description": "",
+        "download": "http://freestocks.org/",
+        "website": "http://freestocks.org/"
+      },
+      {
+        "name": "Gratisography",
+        "description": "",
+        "download": "https://gratisography.com",
+        "website": "https://gratisography.com"
+      },
+      {
+        "name": "Jay Mantri",
+        "description": "",
+        "download": "https://jaymantri.com/",
+        "website": "https://jaymantri.com/"
+      },
+      {
+        "name": "Kaboom Pics",
+        "description": "",
+        "download": "https://kaboompics.com/",
+        "website": "https://kaboompics.com/"
+      },
+      {
+        "name": "LandingStock",
+        "description": "",
+        "download": "https://landingstock.com/",
+        "website": "https://landingstock.com/"
+      },
+      {
+        "name": "Life of Pix",
+        "description": "",
+        "download": "https://www.lifeofpix.com/",
+        "website": "https://www.lifeofpix.com/"
+      },
+      {
+        "name": "LoremPixel",
+        "description": "",
+        "download": "https://lorempixel.com/",
+        "website": "https://lorempixel.com/"
+      },
+      {
+        "name": "Magdeleine",
+        "description": "",
+        "download": "https://magdeleine.co/",
+        "website": "https://magdeleine.co/"
+      },
+      {
+        "name": "Moose",
+        "description": "",
+        "download": "https://photos.icons8.com/",
+        "website": "https://photos.icons8.com/"
+      },
+      {
+        "name": "MMT STock",
+        "description": "",
+        "download": "http://mmtstock.com/",
+        "website": "http://mmtstock.com/"
+      },
+      {
+        "name": "New Old Stock",
+        "description": "",
+        "download": "https://nos.twnsnd.co/",
+        "website": "https://nos.twnsnd.co/"
+      },
+      {
+        "name": "Pexels",
+        "description": "",
+        "download": "https://www.pexels.com/",
+        "website": "https://www.pexels.com/"
+      },
+      {
+        "name": "Photo Creator",
+        "description": "",
+        "download": "https://photos.icons8.com/creator",
+        "website": "https://photos.icons8.com/creator"
+      },
+      {
+        "name": "Picography",
+        "description": "",
+        "download": "https://picography.co/",
+        "website": "https://picography.co/"
+      },
+      {
+        "name": "Pixabay",
+        "description": "",
+        "download": "https://pixabay.com/",
+        "website": "https://pixabay.com/"
+      },
+      {
+        "name": "Picjumbo",
+        "description": "",
+        "download": "http://picjumbo.com/",
+        "website": "http://picjumbo.com/"
+      },
+      {
+        "name": "Pngtree",
+        "description": "",
+        "download": "https://pngtree.com/",
+        "website": "https://pngtree.com/"
+      },
+      {
+        "name": "pxhere",
+        "description": "",
+        "download": "https://pxhere.com/",
+        "website": "https://pxhere.com/"
+      },
+      {
+        "name": "Reshot",
+        "description": "",
+        "download": "https://www.reshot.com/",
+        "website": "https://www.reshot.com/"
+      },
+      {
+        "name": "ShotStash",
+        "description": "",
+        "download": "https://shotstash.com/",
+        "website": "https://shotstash.com/"
+      },
+      {
+        "name": "SkitterPhoto",
+        "description": "",
+        "download": "https://skitterphoto.com/",
+        "website": "https://skitterphoto.com/"
+      },
+      {
+        "name": "Startup Stock Photos",
+        "description": "",
+        "download": "http://startupstockphotos.com/",
+        "website": "http://startupstockphotos.com/"
+      },
+      {
+        "name": "StockSnap.io",
+        "description": "",
+        "download": "https://stocksnap.io/",
+        "website": "https://stocksnap.io/"
+      },
+      {
+        "name": "StyledStock",
+        "description": "",
+        "download": "https://styledstock.co/",
+        "website": "https://styledstock.co/"
+      },
+      {
+        "name": "The Gender Spectrum Collection",
+        "description": "",
+        "download": "https://broadlygenderphotos.vice.com/",
+        "website": "https://broadlygenderphotos.vice.com/"
+      },
+      {
+        "name": "UI Faces",
+        "description": "",
+        "download": "https://uifaces.co/",
+        "website": "https://uifaces.co/"
+      },
+      {
+        "name": "Unsplash",
+        "description": "",
+        "download": "https://unsplash.com",
+        "website": "https://unsplash.com"
+      },
+      {
+        "name": "#WOCinTech Chat Photos",
+        "description": "",
+        "download": "https://www.flickr.com/photos/wocintechchat",
+        "website": "https://www.flickr.com/photos/wocintechchat"
+      },
+      {
+        "name": "Zoommy",
+        "description": "</article>  <article id=\"stock-videos\">  ### Stock Videos  If you work with video-content, you will enjoy these high-quality, hand-curated stock videos. You'll find many good and free stock video sites below, which you can use on your website, in your ad campaigns or social media:",
+        "download": "http://www.zoommyapp.com",
+        "website": "http://www.zoommyapp.com"
+      }
+    ],
+    "Stock Videos": [
+      {
+        "name": "Coverr",
+        "description": "",
+        "download": "https://coverr.co/",
+        "website": "https://coverr.co/"
+      },
+      {
+        "name": "Life of Vids",
+        "description": "",
+        "download": "http://www.lifeofvids.com/",
+        "website": "http://www.lifeofvids.com/"
+      },
+      {
+        "name": "Mazwai",
+        "description": "",
+        "download": "http://mazwai.com",
+        "website": "http://mazwai.com"
+      },
+      {
+        "name": "Mixkit",
+        "description": "",
+        "download": "https://mixkit.co/",
+        "website": "https://mixkit.co/"
+      },
+      {
+        "name": "Motion Places",
+        "description": "",
+        "download": "https://www.motionplaces.com/",
+        "website": "https://www.motionplaces.com/"
+      },
+      {
+        "name": "Pixabay",
+        "description": "",
+        "download": "https://pixabay.com/",
+        "website": "https://pixabay.com/"
+      },
+      {
+        "name": "Pexels Videos",
+        "description": "",
+        "download": "https://www.pexels.com/videos/",
+        "website": "https://www.pexels.com/videos/"
+      },
+      {
+        "name": "Videezy",
+        "description": "",
+        "download": "https://www.videezy.com/",
+        "website": "https://www.videezy.com/"
+      },
+      {
+        "name": "Videvo",
+        "description": "",
+        "download": "https://www.videvo.net/",
+        "website": "https://www.videvo.net/"
+      },
+      {
+        "name": "123RF",
+        "description": "</article>  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"https://adobe.ly/33HVSdf\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png\" alt=\"Abobe XD\"/> </a> </p> </div> -->  <article id=\"tools-for-learning-design\">  ### Tools for Learning Design",
+        "download": "https://www.123rf.com/",
+        "website": "https://www.123rf.com/"
+      }
+    ],
+    "Tools for Learning Design": [
+      {
+        "name": "Design Better",
+        "description": "",
+        "download": "https://www.designbetter.co/",
+        "website": "https://www.designbetter.co/"
+      },
+      {
+        "name": "Design+Code",
+        "description": "",
+        "download": "https://designcode.io/",
+        "website": "https://designcode.io/"
+      },
+      {
+        "name": "DesignerUp",
+        "description": "",
+        "download": "https://designerup.co/",
+        "website": "https://designerup.co/"
+      },
+      {
+        "name": "Figma Training",
+        "description": "",
+        "download": "https://www.figmatraining.com",
+        "website": "https://www.figmatraining.com"
+      },
+      {
+        "name": "Interaction Design Foundation",
+        "description": "",
+        "download": "https://www.interaction-design.org/",
+        "website": "https://www.interaction-design.org/"
+      },
+      {
+        "name": "Laws of UX",
+        "description": "",
+        "download": "https://lawsofux.com/",
+        "website": "https://lawsofux.com/"
+      },
+      {
+        "name": "Learn UX",
+        "description": "",
+        "download": "https://learnux.io/",
+        "website": "https://learnux.io/"
+      },
+      {
+        "name": "Sketch Master",
+        "description": "</article>  <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33Q3AC0\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png\" alt=\"Abstract\"/> </a> </p> </div>  <article id=\"ui-design-tools\">  ### UI Design Tools  What are the best UI design tools in 2019? You can pick any of the tools below and it will allow you to do dozens of design tasks \u2014 UI for site or mobile, wireframe, prototype, animation, logo. These are great and fully-functional tools for UX & UI designers:",
+        "download": "https://sketchmaster.com/",
+        "website": "https://sketchmaster.com/"
+      }
+    ],
+    "UI Design Tools": [
+      {
+        "name": "Adobe XD",
+        "description": "",
+        "download": "https://www.adobe.com/products/xd.html",
+        "website": "https://www.adobe.com/products/xd.html"
+      },
+      {
+        "name": "Affinity Designer",
+        "description": "",
+        "download": "https://affinity.serif.com/en-gb/designer/",
+        "website": "https://affinity.serif.com/en-gb/designer/"
+      },
+      {
+        "name": "Akira",
+        "description": "",
+        "download": "https://github.com/akiraux/Akira",
+        "website": "https://github.com/akiraux/Akira"
+      },
+      {
+        "name": "Botmock",
+        "description": "",
+        "download": "https://www.botmock.com",
+        "website": "https://www.botmock.com"
+      },
+      {
+        "name": "CleverBrush",
+        "description": "",
+        "download": "https://www.cleverbrush.com/",
+        "website": "https://www.cleverbrush.com/"
+      },
+      {
+        "name": "Figma",
+        "description": "",
+        "download": "https://www.figma.com/",
+        "website": "https://www.figma.com/"
+      },
+      {
+        "name": "GIMP",
+        "description": "",
+        "download": "https://www.gimp.org/",
+        "website": "https://www.gimp.org/"
+      },
+      {
+        "name": "Gravit",
+        "description": "",
+        "download": "https://designer.io/",
+        "website": "https://designer.io/"
+      },
+      {
+        "name": "Illustrator",
+        "description": "",
+        "download": "https://www.adobe.com/products/illustrator.html",
+        "website": "https://www.adobe.com/products/illustrator.html"
+      },
+      {
+        "name": "Inkscape",
+        "description": "",
+        "download": "https://inkscape.org/",
+        "website": "https://inkscape.org/"
+      },
+      {
+        "name": "Krita",
+        "description": "",
+        "download": "https://krita.org/en/",
+        "website": "https://krita.org/en/"
+      },
+      {
+        "name": "Lunacy",
+        "description": "",
+        "download": "https://icons8.com/lunacy",
+        "website": "https://icons8.com/lunacy"
+      },
+      {
+        "name": "Photopea",
+        "description": "",
+        "download": "https://www.photopea.com/",
+        "website": "https://www.photopea.com/"
+      },
+      {
+        "name": "Photoshop",
+        "description": "",
+        "download": "https://www.adobe.com/products/photoshop.html",
+        "website": "https://www.adobe.com/products/photoshop.html"
+      },
+      {
+        "name": "Pixelixe",
+        "description": "",
+        "download": "https://studio.pixelixe.com",
+        "website": "https://studio.pixelixe.com"
+      },
+      {
+        "name": "Sketch",
+        "description": "",
+        "download": "https://www.sketchapp.com/",
+        "website": "https://www.sketchapp.com/"
+      },
+      {
+        "name": "Studio",
+        "description": "",
+        "download": "https://www.invisionapp.com/studio",
+        "website": "https://www.invisionapp.com/studio"
+      },
+      {
+        "name": "TwitPile",
+        "description": "",
+        "download": "https://twitpile.com",
+        "website": "https://twitpile.com"
+      },
+      {
+        "name": "Vectr",
+        "description": "",
+        "download": "https://vectr.com/",
+        "website": "https://vectr.com/"
+      },
+      {
+        "name": "Voiceflow",
+        "description": "</article>  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/33KtOpN\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png\" alt=\"ProtoPie\"/> </a> </p> </div> -->  <article id=\"user-flow-tools\">  ### User Flow Tools  User flow is a series of steps a user takes to achieve a meaningful goal. It's a fast way to plan customer journey paths and improve UX. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:",
+        "download": "https://www.voiceflow.com",
+        "website": "https://www.voiceflow.com"
+      }
+    ],
+    "User Flow Tools": [
+      {
+        "name": "Draw.io",
+        "description": "",
+        "download": "https://www.draw.io/",
+        "website": "https://www.draw.io/"
+      },
+      {
+        "name": "Flowmapp",
+        "description": "",
+        "download": "https://flowmapp.com/",
+        "website": "https://flowmapp.com/"
+      },
+      {
+        "name": "Google Drawings",
+        "description": "",
+        "download": "https://docs.google.com/drawings/",
+        "website": "https://docs.google.com/drawings/"
+      },
+      {
+        "name": "Lucidchart",
+        "description": "",
+        "download": "https://www.lucidchart.com/",
+        "website": "https://www.lucidchart.com/"
+      },
+      {
+        "name": "MindNode",
+        "description": "",
+        "download": "https://mindnode.com/",
+        "website": "https://mindnode.com/"
+      },
+      {
+        "name": "NinjaMock",
+        "description": "",
+        "download": "https://ninjamock.com/",
+        "website": "https://ninjamock.com/"
+      },
+      {
+        "name": "OmniGraffle",
+        "description": "",
+        "download": "https://www.omnigroup.com/omnigraffle/",
+        "website": "https://www.omnigroup.com/omnigraffle/"
+      },
+      {
+        "name": "Overflow",
+        "description": "",
+        "download": "https://overflow.io/",
+        "website": "https://overflow.io/"
+      },
+      {
+        "name": "Sketch.systems",
+        "description": "",
+        "download": "https://sketch.systems/",
+        "website": "https://sketch.systems/"
+      },
+      {
+        "name": "SQUID",
+        "description": "",
+        "download": "https://uxmisfit.com/squid/",
+        "website": "https://uxmisfit.com/squid/"
+      },
+      {
+        "name": "WebSequenceDiagrams",
+        "description": "",
+        "download": "https://www.websequencediagrams.com/",
+        "website": "https://www.websequencediagrams.com/"
+      },
+      {
+        "name": "Whimsical",
+        "description": "",
+        "download": "https://whimsical.co/",
+        "website": "https://whimsical.co/"
+      },
+      {
+        "name": "Wireflow",
+        "description": "",
+        "download": "http://wireflow.co",
+        "website": "http://wireflow.co"
+      },
+      {
+        "name": "XMind: ZEN",
+        "description": "",
+        "download": "https://www.xmind.net/zen/",
+        "website": "https://www.xmind.net/zen/"
+      },
+      {
+        "name": "yEd",
+        "description": "</article>  <!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"http://bit.ly/35I1q9q\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png\" alt=\"Maze\"/> </a> </p> </div> -->  <article id=\"user-research-tools\">  ### User Research Tools  User research helps you understand user behaviors, needs, and motivations through various qualitative and quantitative methods (interviews, observation, forms, etc). These user research tools can be useful for you:",
+        "download": "https://www.yworks.com/products/yed",
+        "website": "https://www.yworks.com/products/yed"
+      }
+    ],
+    "User Research Tools": [
+      {
+        "name": "Appoint.ly",
+        "description": "",
+        "download": "https://appoint.ly",
+        "website": "https://appoint.ly"
+      },
+      {
+        "name": "Calendly",
+        "description": "",
+        "download": "https://calendly.com/",
+        "website": "https://calendly.com/"
+      },
+      {
+        "name": "Crowd Signal",
+        "description": "",
+        "download": "https://crowdsignal.com/",
+        "website": "https://crowdsignal.com/"
+      },
+      {
+        "name": "Doodle",
+        "description": "",
+        "download": "https://doodle.com/",
+        "website": "https://doodle.com/"
+      },
+      {
+        "name": "Evolt",
+        "description": "",
+        "download": "https://evolt.io/en/",
+        "website": "https://evolt.io/en/"
+      },
+      {
+        "name": "Feedback Lite",
+        "description": "",
+        "download": "https://www.feedbacklite.com/",
+        "website": "https://www.feedbacklite.com/"
+      },
+      {
+        "name": "GoToMeeting",
+        "description": "",
+        "download": "https://www.gotomeeting.com/en-gb",
+        "website": "https://www.gotomeeting.com/en-gb"
+      },
+      {
+        "name": "Handrail",
+        "description": "",
+        "download": "https://handrailux.com/",
+        "website": "https://handrailux.com/"
+      },
+      {
+        "name": "JotForm",
+        "description": "",
+        "download": "https://www.jotform.com",
+        "website": "https://www.jotform.com"
+      },
+      {
+        "name": "Lookback",
+        "description": "",
+        "download": "https://lookback.io/",
+        "website": "https://lookback.io/"
+      },
+      {
+        "name": "MineTime",
+        "description": "",
+        "download": "https://minetime.ai",
+        "website": "https://minetime.ai"
+      },
+      {
+        "name": "Reflector",
+        "description": "",
+        "download": "https://www.airsquirrels.com/reflector",
+        "website": "https://www.airsquirrels.com/reflector"
+      },
+      {
+        "name": "Reframer",
+        "description": "",
+        "download": "https://www.optimalworkshop.com/reframer",
+        "website": "https://www.optimalworkshop.com/reframer"
+      },
+      {
+        "name": "Sticktail",
+        "description": "",
+        "download": "https://sticktailapp.com/",
+        "website": "https://sticktailapp.com/"
+      },
+      {
+        "name": "Survey Monkey",
+        "description": "",
+        "download": "https://www.surveymonkey.com/",
+        "website": "https://www.surveymonkey.com/"
+      },
+      {
+        "name": "Typeform",
+        "description": "",
+        "download": "https://www.typeform.com/",
+        "website": "https://www.typeform.com/"
+      },
+      {
+        "name": "Wufoo",
+        "description": "",
+        "download": "https://www.wufoo.com",
+        "website": "https://www.wufoo.com"
+      },
+      {
+        "name": "YesInsights",
+        "description": "",
+        "download": "https://www.yesinsights.com/",
+        "website": "https://www.yesinsights.com/"
+      },
+      {
+        "name": "UserBit",
+        "description": "",
+        "download": "https://userbitapp.com/",
+        "website": "https://userbitapp.com/"
+      },
+      {
+        "name": "User Interviews",
+        "description": "",
+        "download": "https://www.userinterviews.com/",
+        "website": "https://www.userinterviews.com/"
+      },
+      {
+        "name": "Zoom",
+        "description": "</article>  <article id=\"visual-debugging-tools\">  ### Visual Debugging Tools",
+        "download": "https://zoom.us",
+        "website": "https://zoom.us"
+      }
+    ],
+    "Visual Debugging Tools": [
+      {
+        "name": "LogRocket",
+        "description": "",
+        "download": "https://logrocket.com/",
+        "website": "https://logrocket.com/"
+      },
+      {
+        "name": "PixelSnap",
+        "description": "",
+        "download": "https://getpixelsnap.com",
+        "website": "https://getpixelsnap.com"
+      },
+      {
+        "name": "VisBug",
+        "description": "",
+        "download": "https://github.com/GoogleChromeLabs/ProjectVisBug",
+        "website": "https://github.com/GoogleChromeLabs/ProjectVisBug"
+      },
+      {
+        "name": "Visual Inspector",
+        "description": "</article>  <article id=\"wireframing-tools\">  ### Wireframing Tools  A wireframe is a visual mockup that outlines the basic structure of the site or an app. It contains the most essential elements and the content, helping you easily explain ideas on design. Wireframes are a low-fidelity way of showing a design. This section is presented the best wireframing tools for a variety of use cases.",
+        "download": "https://www.canvasflip.com/visual-inspector/",
+        "website": "https://www.canvasflip.com/visual-inspector/"
+      }
+    ],
+    "Wireframing Tools": [
+      {
+        "name": "Balsamiq Cloud",
+        "description": "",
+        "download": "https://balsamiq.cloud/",
+        "website": "https://balsamiq.cloud/"
+      },
+      {
+        "name": "BLOKK",
+        "description": "",
+        "download": "http://www.blokkfont.com/",
+        "website": "http://www.blokkfont.com/"
+      },
+      {
+        "name": "CSS Grid Builder",
+        "description": "",
+        "download": "https://cssgrid.cc/css-grid-builder.html",
+        "website": "https://cssgrid.cc/css-grid-builder.html"
+      },
+      {
+        "name": "Gliffy",
+        "description": "",
+        "download": "https://www.gliffy.com/",
+        "website": "https://www.gliffy.com/"
+      },
+      {
+        "name": "Gridzzly",
+        "description": "",
+        "download": "http://gridzzly.com/",
+        "website": "http://gridzzly.com/"
+      },
+      {
+        "name": "Layoutit",
+        "description": "",
+        "download": "https://grid.layoutit.com/",
+        "website": "https://grid.layoutit.com/"
+      },
+      {
+        "name": "Pidoco",
+        "description": "",
+        "download": "https://pidoco.com/en",
+        "website": "https://pidoco.com/en"
+      },
+      {
+        "name": "Wireframe.cc",
+        "description": "",
+        "download": "https://wireframe.cc/",
+        "website": "https://wireframe.cc/"
+      },
+      {
+        "name": "Whimsical Wireframes",
+        "description": "",
+        "download": "https://whimsical.co/wireframes/",
+        "website": "https://whimsical.co/wireframes/"
+      },
+      {
+        "name": "1200px Grid System",
+        "description": "<!-- <div class=\"hidden-in-page\"> <p align=\"center\"> <a href=\"https://adobe.ly/33HVSdf\"> <img src=\"https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png\" alt=\"Abobe XD\"/> </a> </p> </div> -->  </article>  <article id=\"three-d-modeling-software\">  ### Three D Modeling Software  3D graphics are used in gaming, film making, architecture, engineering, and 3D printing. 3D artists & designers use specific 3D modeling software, mentioned in this section.",
+        "download": "https://1200px.com/",
+        "website": "https://1200px.com/"
+      }
+    ],
+    "Three D Modeling Software": [
+      {
+        "name": "Autodesk",
+        "description": "",
+        "download": "https://www.autodesk.com/products/fusion-360/overview",
+        "website": "https://www.autodesk.com/products/fusion-360/overview"
+      },
+      {
+        "name": "Blender",
+        "description": "",
+        "download": "https://www.blender.org/",
+        "website": "https://www.blender.org/"
+      },
+      {
+        "name": "FreeCAD",
+        "description": "",
+        "download": "https://www.freecadweb.org/",
+        "website": "https://www.freecadweb.org/"
+      },
+      {
+        "name": "MatterControl",
+        "description": "",
+        "download": "https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6",
+        "website": "https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6"
+      },
+      {
+        "name": "Maya",
+        "description": "",
+        "download": "https://www.autodesk.com/products/maya/overview",
+        "website": "https://www.autodesk.com/products/maya/overview"
+      },
+      {
+        "name": "Onshape",
+        "description": "",
+        "download": "https://www.onshape.com/",
+        "website": "https://www.onshape.com/"
+      },
+      {
+        "name": "OpenSCAD",
+        "description": "",
+        "download": "https://www.openscad.org/",
+        "website": "https://www.openscad.org/"
+      },
+      {
+        "name": "Rhino",
+        "description": "",
+        "download": "https://www.rhino3d.com/",
+        "website": "https://www.rhino3d.com/"
+      },
+      {
+        "name": "SketchUp",
+        "description": "",
+        "download": "https://www.sketchup.com",
+        "website": "https://www.sketchup.com"
+      },
+      {
+        "name": "Tinkercad",
+        "description": "",
+        "download": "https://www.tinkercad.com",
+        "website": "https://www.tinkercad.com"
+      },
+      {
+        "name": "Vectary",
+        "description": "",
+        "download": "https://www.vectary.com/",
+        "website": "https://www.vectary.com/"
+      },
+      {
+        "name": "3D Slash",
+        "description": "</article>  <article id=\"addendum\">  ### Addendum (Reference & Inspiration)  Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)  </article>",
+        "download": "https://www.3dslash.net",
+        "website": "https://www.3dslash.net"
+      }
+    ],
+    "Addendum (Reference & Inspiration)": [
+      {
+        "name": "Lisa Dziuba",
+        "description": "</article>",
+        "download": "https://twitter.com/LisaDziuba",
+        "website": "https://twitter.com/LisaDziuba"
+      }
+    ]
+  }
+}
