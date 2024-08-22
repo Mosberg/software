@@ -296,10 +296,16 @@
         "website": "https://www.microsoft.com/edge"
       },
       {
-        "description": "A gaming-focused variant of the Opera browser.",
+        "description": "You deserve a better browser.",
         "download": "https://www.opera.com/download",
-        "name": "Opera GX",
+        "name": "Opera",
         "website": "https://www.opera.com/"
+      },
+      {
+        "description": "A gaming-focused variant of the Opera browser.",
+        "download": "https://www.opera.com/computer/thanks?ni=eapgx&os=windows",
+        "name": "Opera GX",
+        "website": "https://www.opera.com/gx/gx-browser"
       }
     ]
   }

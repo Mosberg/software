@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Software List",
+  "type": "object",
+  "required": ["title", "description", "categories"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Title of the software list"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the software list"
+    },
+    "categories": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "$ref": "#/properties/softwareApplication"
+        }
+      }
+    },
+    "softwareApplication": {
+      "type": "object",
+      "required": ["description", "download", "name", "website"],
+      "properties": {
+        "description": {
+          "type": "string",
+          "description": "Brief description of the software application"
+        },
+        "download": {
+          "type": "string",
+          "format": "uri",
+          "description": "Download link for the software application"
+        },
+        "name": {
+          "type": "string",
+          "description": "Name of the software application"
+        },
+        "website": {
+          "type": "string",
+          "format": "uri",
+          "description": "Website of the software application"
+        }
+      }
+    }
+  }
+}
